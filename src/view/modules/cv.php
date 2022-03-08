@@ -14,7 +14,7 @@ div.text-photo
 
 	<hr>
 	<br>
-	<div style="margin-left:5%">
+	<div style="margin-left:3%">
 	<img src="./img/photo_cv.jpg" class="rounded-circle" style="width: 10%;position: static;margin-top:-1%"></img>
 	<div class="text-photo">
 	Florian LEBORGNE<br>
