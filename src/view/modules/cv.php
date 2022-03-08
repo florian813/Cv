@@ -4,7 +4,7 @@ div.text-photo
 	margin-left:11%;
 	margin-top:-6%;
 	text-transform: uppercase;
-	letter-spacing: 0.18em;
+	letter-spacing: 0.15em;
 
 }
 </style>
