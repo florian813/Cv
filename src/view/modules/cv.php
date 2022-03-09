@@ -9,11 +9,11 @@ div.text-photo
 }
 </style>
 
-<ul class="menu-accordeon">	
 <h1 class=textemenu>CV</h1>
 
 	<hr>
 	<br>
+	<div>
 	<div style="margin-left:1%">
 	<img src="./img/photo_cv.jpg" class="rounded-circle" style="width: 10%;position: static;margin-top:-1%"></img>
 	<div class="text-photo">
