@@ -16,7 +16,7 @@ class Template {
 
 </head>
 
-<body id="body" style="background:white ; color=#191A19; min-width:320px;">
+<body id="body" style="background:#191A19 ; color:white; min-width:320px;">
 
   <!-- TODO: Inclure le nav ici -->
   <?php include "commons/nav.php"?>
