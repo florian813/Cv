@@ -2,7 +2,7 @@
 div.text-photo
 {
 	margin-left:19.8em;
-	margin-top:-9.8em;
+	margin-top:-10.5em;
 	text-transform: uppercase;
 	letter-spacing: 0.15em;
 	width:12em;
@@ -13,10 +13,10 @@ div.text-photo
 
 	<hr style="width:118.95em ; ">
 
-	<div style="width:118.95em ; height:18em ; position:static;background:red">
+	<div id="div-photo" style="width:118.95em ; height:17em ; position:static ; background:#273746 ; margin-top:-0.98em">
 
 		<div style="margin-left:4em ; height:18em ; width:15em; ">
-			<img src="./img/photo_cv.jpg" class="rounded-circle" style="width: 100% ; margin-top:1.6em ; position:static;"></img>
+			<img src="./img/photo_cv.jpg" class="rounded-circle" style="width: 100% ; margin-top:1em ; position:static;"></img>
 		</div>
 
 		<div class="text-photo">
@@ -56,7 +56,7 @@ div.text-photo
 		</div>
 	</div>
 
-	<hr style="width:118.95em ; ">
+	<hr style="width:118.95em ; margin-top:-0.09em ">
 
 	<div style="width:118.95em ; " >
 		<div style="margin-left:3%">
