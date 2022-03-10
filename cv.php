@@ -19,8 +19,8 @@ hr{width:device-width
 
 	<div id="div-photo" style="width=device-width ; background:#273746 ; margin-top:-0.8%">
 
-		<div style="margin-left:4em ; height:5% ; width:9.4%;background:black;">
-			<img src="./img/photo_cv.jpg" class="rounded-circle" style="width: 100% ; margin-top:2% ;"></img>
+		<div style="margin-left:2% ; width:10%;background:black;">
+			<img src="./img/photo_cv.jpg" class="rounded-circle" style="width: 100% ; margin-top:10% ;"></img>
 		</div>
 
 		<div class="text-photo">
@@ -58,7 +58,7 @@ hr{width:device-width
 			<img src="./img/logo-vehicule.png" style="width: 4% ; margin-left:3.60%"></img>
 			Véhicule personnel
 		</div>
-		<hr style="margin-top:4% ">
+		<hr style="margin-top:2.5% ">
 	</div>
 
 	
@@ -137,4 +137,3 @@ hr{width:device-width
 		</div><br>
 		</div>
 	</div>
-
