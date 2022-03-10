@@ -1,5 +1,5 @@
 <div>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light" style="width:device-width;">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light" style="width=device-width">
         
         <img src="/public/images/avatar.png" class="navbar-brand" href="#" style="width: 2%;height: 2%; margin-left: 1%;"></img>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
