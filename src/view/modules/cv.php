@@ -19,7 +19,7 @@ hr{width:device-width
 	<div id="div-photo" style="width=device-width ; background:#273746 ; margin-top:1%">
 
 		<div style="margin-left:3.4% ; height:5% ; width:9.4%;background:black;">
-			<img src="./img/photo_cv.jpg" class="rounded-circle" style="width: 100% ; margin-top: 3%;"></img>
+			<img src="./img/photo_cv.jpg" class="rounded-circle" style="width: 100% ; margin-top: 1%;"></img>
 		</div>
 
 		<div class="text-photo">
