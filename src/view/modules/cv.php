@@ -2,23 +2,25 @@
 div.text-photo
 {
 	margin-left:19.8em;
-	margin-top:-10.5em;
+	margin-top:-5%;
 	text-transform: uppercase;
 	letter-spacing: 0.15em;
 	width:12em;
 }
 
-hr{width:device-width}
+hr{width:device-width
+
+}
 </style>
 
 	<h1 class=textemenu style="margin-left:1%">CV</h1>
 
 	<hr>
 
-	<div id="div-photo" style="width=device-width ; height:17em ; position:static ; background:#273746 ; margin-top:-0.98em">
+	<div id="div-photo" style="width=device-width ; background:#273746 ; margin-top:-0.98em">
 
-		<div style="margin-left:4em ; height:18em ; width:9.4%;background:black ">
-			<img src="./img/photo_cv.jpg" class="rounded-circle" style="width: 100% ; margin-top:1em ; position:static;"></img>
+		<div style="margin-left:4em ; height:5% ; width:9.4%;background:black;">
+			<img src="./img/photo_cv.jpg" class="rounded-circle" style="width: 100% ; margin-top:1em ;"></img>
 		</div>
 
 		<div class="text-photo">
@@ -56,9 +58,10 @@ hr{width:device-width}
 			<img src="./img/logo-vehicule.png" style="width: 2% ; margin-left:3.60%"></img>
 			Véhicule personnel
 		</div>
+		<hr style="margin-top:3.5% ">
 	</div>
 
-	<hr style="margin-top:-0.09em ">
+	
 
 	<div style="width=device-width" >
 		<div style="margin-left:3%">
@@ -70,9 +73,10 @@ hr{width:device-width}
 			<span class="opacity-50" style="margin-left:1%">Spécialité: ISN<span></p>
 			<p>Brevet des collèges <a href="https://www.google.fr/maps/place/Middle+School+Du+Bras+D'or/@50.4557918,1.7567172,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddc686488ae1bd:0xca2a187a7ee9f7c0!8m2!3d50.4557884!4d1.7589059" target="_blank">Collège du Bras d'Or Ecuires,France</a> / De septembre 2012 à juillet 2016</p>
 		</div>
+		<hr>
 	</div>
 
-	<hr>
+	
 
 	<div style="width=device-width">
 		<div style="margin-left:3%">
