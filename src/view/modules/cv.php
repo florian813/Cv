@@ -11,9 +11,9 @@ div.text-photo
 
 	<h1 class=textemenu>CV</h1>
 
-	<hr style="width:100% ; ">
+	<hr style="width:118.95em ; ">
 
-	<div style="width:100% ; height:18em ; position:static;background:red">
+	<div style="width:118.95em ; height:18em ; position:static;background:red">
 
 		<div style="margin-left:4em ; height:18em ; width:15em; ">
 			<img src="./img/photo_cv.jpg" class="rounded-circle" style="width: 100% ; margin-top:1.6em ; position:static;"></img>
@@ -56,9 +56,9 @@ div.text-photo
 		</div>
 	</div>
 
-	<hr style="width:100% ;  ">
+	<hr style="width:118.95em ; ">
 
-	<div style="width:100% ;  " >
+	<div style="width:118.95em ; " >
 		<h2>Diplômes et Formations</h2>
 		<br>
 		<br>
@@ -68,9 +68,9 @@ div.text-photo
 		<p>Brevet des collèges <a href="https://www.google.fr/maps/place/Middle+School+Du+Bras+D'or/@50.4557918,1.7567172,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddc686488ae1bd:0xca2a187a7ee9f7c0!8m2!3d50.4557884!4d1.7589059" target="_blank">Collège du Bras d'Or Ecuires,France</a> / De septembre 2012 à juillet 2016</p>
 	</div>
 
-	<hr style="width:100% ; ">
+	<hr style="width:118.95em ; ">
 
-	<div style="width:100% ;  ">
+	<div style="width:118.95em ; ">
 		<h2>Expériences professionnelles</h2>
 		<br>
 		<p>Opérateur de production (saisonnier) <a href="https://www.google.fr/maps/place/Randstad+Inhouse+Services/@50.5097564,1.6565701,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddd011fa5de001:0xa2bf37e4038c3692!8m2!3d50.509753!4d1.6587588" target="_blank">RANDSTAD INHOUSE SERVICES ( Valeo Etaples),France</a> / De juillet 2021 à août 2021</p>
@@ -78,27 +78,27 @@ div.text-photo
 		<p>Stagiaire mécanicien <a href="https://www.google.fr/maps/place/Attin+Automobiles/@50.4867506,1.7441177,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddc58e0c1a3ec5:0x1a09840f83d8f7cd!8m2!3d50.4867533!4d1.7463149 " target="_blank">Attin Automobiles Attin, France</a> / Décembre 2015<br><span class="opacity-50" style="margin-left:1%">Stage de découverte d'une semaine</span></p>
 	</div>
 
-	<hr style="width:100% ;  ">
+	<hr style="width:118.95em ; ">
 
-	<div style="width:100% ; ">
+	<div style="width:118.95em ; ">
 		<h2>Langues</h2>
 		<br>
 		<p>Anglais</p>
 		<p>Espagnol</p>
 	</div>
 
-	<hr style="width:100% ;  ">
+	<hr style="width:118.95em ;">
 
-	<div style="width:100% ;  ">
+	<div style="width:118.95em ; ">
 		<h2>Centre d'intérêt</h2>
 		<br>
 		<p>Mécanique , Moto</p>
 		<p>Informatique , Programation</p>
 	</div>
 
-	<hr style="width:100% ; ">
+	<hr style="width:118.95em ;">
 
-	<div style="width:100% ;  ">
+	<div style="width:118.95em ; ">
 		<h2>Informatique</h2>
 		<br>
 		Libre Office <div class="progress" style="width: 25%;" >
