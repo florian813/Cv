@@ -12,7 +12,7 @@ div.text-photo
 	<h1 class=textemenu>CV</h1>
 
 	<hr>
-	<div style="width:100% ; height:18em ; position:static;">
+	<div style="width:118.95em ; height:18em ; position:static;background:red">
 
 		<div style="margin-left:4em ; height:18em ; width:15em; ">
 			<img src="./img/photo_cv.jpg" class="rounded-circle" style="width: 100% ; margin-top:1.6em ; position:static;"></img>
@@ -57,7 +57,7 @@ div.text-photo
 
 	<hr>
 
-	<div>
+	<div style="width:118.95em ; " >
 		<h2>Diplômes et Formations</h2>
 		<br>
 		<br>
@@ -69,7 +69,7 @@ div.text-photo
 
 	<hr>
 
-	<div>
+	<div style="width:118.95em ; ">
 		<h2>Expériences professionnelles</h2>
 		<br>
 		<p>Opérateur de production (saisonnier) <a href="https://www.google.fr/maps/place/Randstad+Inhouse+Services/@50.5097564,1.6565701,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddd011fa5de001:0xa2bf37e4038c3692!8m2!3d50.509753!4d1.6587588" target="_blank">RANDSTAD INHOUSE SERVICES ( Valeo Etaples),France</a> / De juillet 2021 à août 2021</p>
@@ -79,7 +79,7 @@ div.text-photo
 
 	<hr>
 
-	<div>
+	<div style="width:118.95em ; ">
 		<h2>Langues</h2>
 		<br>
 		<p>Anglais</p>
@@ -88,7 +88,7 @@ div.text-photo
 
 	<hr>
 
-	<div>
+	<div style="width:118.95em ; ">
 		<h2>Centre d'intérêt</h2>
 		<br>
 		<p>Mécanique , Moto</p>
@@ -97,7 +97,7 @@ div.text-photo
 
 	<hr>
 
-	<div>
+	<div style="width:118.95em ; ">
 		<h2>Informatique</h2>
 		<br>
 		Libre Office <div class="progress" style="width: 25%;" >
