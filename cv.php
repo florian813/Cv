@@ -1,22 +1,26 @@
 <style>
 div.text-photo
 {
-	margin-left:19.8em;
-	margin-top:-9.8em;
+	margin-left:13.3%;
+	margin-top:-6%;
 	text-transform: uppercase;
 	letter-spacing: 0.15em;
 	width:12em;
+}
+
+hr{width:device-width
+
 }
 </style>
 
 	<h1 class=textemenu style="margin-left:1%">CV</h1>
 
-	<hr style="width:118.95em ; ">
+	<hr>
 
-	<div style="width:118.95em ; height:18em ; position:static;background:red">
+	<div id="div-photo" style="width=device-width ; background:#273746 ; margin-top:-0.98em">
 
-		<div style="margin-left:4em ; height:18em ; width:15em; ">
-			<img src="./img/photo_cv.jpg" class="rounded-circle" style="width: 100% ; margin-top:1.6em ; position:static;"></img>
+		<div style="margin-left:3.4% ; height:5% ; width:9.4%;background:black;">
+			<img src="./img/photo_cv.jpg" class="rounded-circle" style="width: 100% ; margin-top:1em ;"></img>
 		</div>
 
 		<div class="text-photo">
@@ -24,7 +28,7 @@ div.text-photo
 			Emploi saisonnier<br>
 		</div>
 
-		<div style="margin-left:46em ; margin-top:-3.6em ;">
+		<div style="margin-left:40% ; margin-top:-2.6% ;">
 			<svg xmlns="http://www.w3.org/2000/svg" width="2%" height="2%" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
   				<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555ZM0 4.697v7.104l5.803-3.558L0 4.697ZM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757Zm3.436-.586L16 11.801V4.697l-5.803 3.546Z"/>
 			</svg>
@@ -54,11 +58,12 @@ div.text-photo
 			<img src="./img/logo-vehicule.png" style="width: 2% ; margin-left:3.60%"></img>
 			Véhicule personnel
 		</div>
+		<hr style="margin-top:4% ">
 	</div>
 
-	<hr style="width:118.95em ; ">
+	
 
-	<div style="width:118.95em ; " >
+	<div style="width=device-width" >
 		<div style="margin-left:3%">
 			<h2>Diplômes et Formations</h2>
 			<br>
@@ -68,11 +73,12 @@ div.text-photo
 			<span class="opacity-50" style="margin-left:1%">Spécialité: ISN<span></p>
 			<p>Brevet des collèges <a href="https://www.google.fr/maps/place/Middle+School+Du+Bras+D'or/@50.4557918,1.7567172,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddc686488ae1bd:0xca2a187a7ee9f7c0!8m2!3d50.4557884!4d1.7589059" target="_blank">Collège du Bras d'Or Ecuires,France</a> / De septembre 2012 à juillet 2016</p>
 		</div>
+		<hr>
 	</div>
 
-	<hr style="width:118.95em ; ">
+	
 
-	<div style="width:118.95em ; ">
+	<div style="width=device-width">
 		<div style="margin-left:3%">
 			<h2>Expériences professionnelles</h2>
 			<br>
@@ -82,9 +88,9 @@ div.text-photo
 		</div>
 	</div>
 
-	<hr style="width:118.95em ; ">
+	<hr>
 
-	<div style="width:118.95em ; ">
+	<div style="width=device-width">
 		<div style="margin-left:3%">
 			<h2>Langues</h2>
 			<br>
@@ -93,9 +99,9 @@ div.text-photo
 		</div>
 	</div>
 
-	<hr style="width:118.95em ;">
+	<hr>
 
-	<div style="width:118.95em ; ">
+	<div style="width=device-width ">
 		<div style="margin-left:3%">
 			<h2>Centre d'intérêt</h2>
 			<br>
@@ -104,9 +110,9 @@ div.text-photo
 		</div>
 	</div>
 
-	<hr style="width:118.95em ;">
+	<hr>
 
-	<div style="width:118.95em ; ">
+	<div style="width=device-width">
 		<div style="margin-left:3%">
 		<h2>Informatique</h2>
 		<br>
