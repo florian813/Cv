@@ -23,12 +23,12 @@ hr{width:device-width
 			<img src="./img/photo_cv.jpg" class="rounded-circle" style="width: 100% ; margin-top:10% ;"></img>
 		</div>
 
-		<div class="text-photo">
+			<div style=" margin-top:-6%; margin-left:13%">
 			Florian LEBORGNE<br>
-			Emploi saisonnier<br>
-		</div>
+			Emploi saisonnier
+			</div>	
 
-		<div style="margin-left:40% ; margin-top:-3% ;">
+			<div style=" margin-top:-4%; margin-left:40%">
 			<svg xmlns="http://www.w3.org/2000/svg" width="4%" height="4%" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
   				<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555ZM0 4.697v7.104l5.803-3.558L0 4.697ZM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757Zm3.436-.586L16 11.801V4.697l-5.803 3.546Z"/>
 			</svg>
@@ -57,8 +57,8 @@ hr{width:device-width
 	
 			<img src="./img/logo-vehicule.png" style="width: 4% ; margin-left:3.60%"></img>
 			Véhicule personnel
-		</div>
-		<hr style="margin-top:2.5% ">
+			</div>
+		<hr style="margin-top:4% ">
 	</div>
 
 	
