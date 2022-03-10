@@ -7,13 +7,15 @@ div.text-photo
 	letter-spacing: 0.15em;
 	width:12em;
 }
+
+hr{width:device-width}
 </style>
 
 	<h1 class=textemenu style="margin-left:1%">CV</h1>
 
-	<hr style="width:118.95em ; ">
+	<hr>
 
-	<div id="div-photo" style="width:118.95em ; height:17em ; position:static ; background:#273746 ; margin-top:-0.98em">
+	<div id="div-photo" style="width=device-width ; height:17em ; position:static ; background:#273746 ; margin-top:-0.98em">
 
 		<div style="margin-left:4em ; height:18em ; width:15em; ">
 			<img src="./img/photo_cv.jpg" class="rounded-circle" style="width: 100% ; margin-top:1em ; position:static;"></img>
@@ -56,9 +58,9 @@ div.text-photo
 		</div>
 	</div>
 
-	<hr style="width:118.95em ; margin-top:-0.09em ">
+	<hr style="margin-top:-0.09em ">
 
-	<div style="width:118.95em ; " >
+	<div style="width=device-width" >
 		<div style="margin-left:3%">
 			<h2>Diplômes et Formations</h2>
 			<br>
@@ -70,9 +72,9 @@ div.text-photo
 		</div>
 	</div>
 
-	<hr style="width:118.95em ; ">
+	<hr>
 
-	<div style="width:118.95em ; ">
+	<div style="width=device-width">
 		<div style="margin-left:3%">
 			<h2>Expériences professionnelles</h2>
 			<br>
@@ -82,9 +84,9 @@ div.text-photo
 		</div>
 	</div>
 
-	<hr style="width:118.95em ; ">
+	<hr>
 
-	<div style="width:118.95em ; ">
+	<div style="width=device-width">
 		<div style="margin-left:3%">
 			<h2>Langues</h2>
 			<br>
@@ -93,9 +95,9 @@ div.text-photo
 		</div>
 	</div>
 
-	<hr style="width:118.95em ;">
+	<hr>
 
-	<div style="width:118.95em ; ">
+	<div style="width=device-width ">
 		<div style="margin-left:3%">
 			<h2>Centre d'intérêt</h2>
 			<br>
@@ -104,9 +106,9 @@ div.text-photo
 		</div>
 	</div>
 
-	<hr style="width:118.95em ;">
+	<hr>
 
-	<div style="width:118.95em ; ">
+	<div style="width=device-width">
 		<div style="margin-left:3%">
 		<h2>Informatique</h2>
 		<br>
