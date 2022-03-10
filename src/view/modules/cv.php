@@ -11,7 +11,8 @@ div.text-photo
 
 	<h1 class=textemenu>CV</h1>
 
-	<hr>
+	<hr style="width:118.95em ; ">
+
 	<div style="width:118.95em ; height:18em ; position:static;background:red">
 
 		<div style="margin-left:4em ; height:18em ; width:15em; ">
@@ -55,7 +56,7 @@ div.text-photo
 		</div>
 	</div>
 
-	<hr>
+	<hr style="width:118.95em ; ">
 
 	<div style="width:118.95em ; " >
 		<h2>Diplômes et Formations</h2>
@@ -67,7 +68,7 @@ div.text-photo
 		<p>Brevet des collèges <a href="https://www.google.fr/maps/place/Middle+School+Du+Bras+D'or/@50.4557918,1.7567172,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddc686488ae1bd:0xca2a187a7ee9f7c0!8m2!3d50.4557884!4d1.7589059" target="_blank">Collège du Bras d'Or Ecuires,France</a> / De septembre 2012 à juillet 2016</p>
 	</div>
 
-	<hr>
+	<hr style="width:118.95em ; ">
 
 	<div style="width:118.95em ; ">
 		<h2>Expériences professionnelles</h2>
@@ -77,7 +78,7 @@ div.text-photo
 		<p>Stagiaire mécanicien <a href="https://www.google.fr/maps/place/Attin+Automobiles/@50.4867506,1.7441177,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddc58e0c1a3ec5:0x1a09840f83d8f7cd!8m2!3d50.4867533!4d1.7463149 " target="_blank">Attin Automobiles Attin, France</a> / Décembre 2015<br><span class="opacity-50" style="margin-left:1%">Stage de découverte d'une semaine</span></p>
 	</div>
 
-	<hr>
+	<hr style="width:118.95em ; ">
 
 	<div style="width:118.95em ; ">
 		<h2>Langues</h2>
@@ -86,7 +87,7 @@ div.text-photo
 		<p>Espagnol</p>
 	</div>
 
-	<hr>
+	<hr style="width:118.95em ; ">
 
 	<div style="width:118.95em ; ">
 		<h2>Centre d'intérêt</h2>
@@ -95,7 +96,7 @@ div.text-photo
 		<p>Informatique , Programation</p>
 	</div>
 
-	<hr>
+	<hr style="width:118.95em ; ">
 
 	<div style="width:118.95em ; ">
 		<h2>Informatique</h2>
