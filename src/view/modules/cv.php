@@ -1,8 +1,8 @@
 <style>
 div.text-photo
 {
-	margin-left:19.8em;
-	margin-top:-5%;
+	margin-left:13.3%;
+	margin-top:-6%;
 	text-transform: uppercase;
 	letter-spacing: 0.15em;
 	width:12em;
@@ -19,7 +19,7 @@ hr{width:device-width
 
 	<div id="div-photo" style="width=device-width ; background:#273746 ; margin-top:-0.98em">
 
-		<div style="margin-left:4em ; height:5% ; width:9.4%;background:black;">
+		<div style="margin-left:3.4% ; height:5% ; width:9.4%;background:black;">
 			<img src="./img/photo_cv.jpg" class="rounded-circle" style="width: 100% ; margin-top:1em ;"></img>
 		</div>
 
@@ -28,7 +28,7 @@ hr{width:device-width
 			Emploi saisonnier<br>
 		</div>
 
-		<div style="margin-left:46em ; margin-top:-3.6em ;">
+		<div style="margin-left:40% ; margin-top:-2.6% ;">
 			<svg xmlns="http://www.w3.org/2000/svg" width="2%" height="2%" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
   				<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555ZM0 4.697v7.104l5.803-3.558L0 4.697ZM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757Zm3.436-.586L16 11.801V4.697l-5.803 3.546Z"/>
 			</svg>
@@ -58,7 +58,7 @@ hr{width:device-width
 			<img src="./img/logo-vehicule.png" style="width: 2% ; margin-left:3.60%"></img>
 			Véhicule personnel
 		</div>
-		<hr style="margin-top:3.5% ">
+		<hr style="margin-top:4% ">
 	</div>
 
 	
