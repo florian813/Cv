@@ -27,7 +27,7 @@ hr{width:device-width
 			Emploi saisonnier<br>
 		</div>
 
-		<div style="margin-left: ; margin-top:-6.8% ; background:green ;width=device-width; text-transform: uppercase;text:100% ">
+		<div style="margin-left: ; margin-top:-6.8% ;width=device-width; text-transform: uppercase;text:100% ">
 			<center>
 			<div>
 			<svg xmlns="http://www.w3.org/2000/svg" width="2%" height="2%" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
