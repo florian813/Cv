@@ -17,13 +17,13 @@ hr{width:device-width
 
 	<hr>
 
-	<div id="div-photo" style="width=device-width ; background:#273746 ; margin-top:-0.85%">
+	<div id="div-photo" style="width=device-width ; background:#273746 ; margin-top:-0.9%">
 
-		<div style="margin-left:2% ; width:13%;background:black;">
-			<img src="./img/photo_cv.jpg" class="rounded-circle" style="width: 100% ; margin-top:1% ;"></img>
+		<div style="margin-left:2% ; width:10%;background:black;">
+			<img src="./img/photo_cv.jpg" class="rounded-circle" style="width: 100% ; margin-top:10% ;"></img>
 		</div>
 
-			<div style=" margin-top:-8%; margin-left:15.3%; width:9%;font-size:110% ;background:green">
+			<div style=" margin-top:-6%; margin-left:13%; font-size:110%">
 			Florian LEBORGNE<br>
 			Emploi saisonnier
 			</div>	
@@ -58,7 +58,7 @@ hr{width:device-width
 			<img src="./img/logo-vehicule.png" style="width: 4% ; margin-left:3.60%"></img>
 			Véhicule personnel
 			</div>
-		<hr style="margin-top:3% ">
+		<hr style="margin-top:3.5% ">
 	</div>
 
 	
