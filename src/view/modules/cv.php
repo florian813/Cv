@@ -56,7 +56,125 @@ hr{width:device-width
 			</svg>
 			<span>Permis B</span>
 			<div style="width:4%; height:4%">
-			<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="100" height="100" fill="currentColor" xml:space="preserve"><path d="M78.187 19.505a9.945 9.945 0 0 0-2.164-3.242 9.972 9.972 0 0 0-7.07-2.93H31.048c-2.76 0-5.26 1.12-7.07 2.93a9.956 9.956 0 0 0-2.164 3.242l-5.729 13.828h67.832l-5.73-13.828zM90 49.993C90 44.473 85.521 40 80 40H20c-5.521 0-10 4.473-10 9.993l.003.007H10v23.333h6.667v10c0 1.836 1.5 3.334 3.333 3.334h6.667A3.343 3.343 0 0 0 30 83.333v-10h40v10a3.343 3.343 0 0 0 3.333 3.334H80a3.342 3.342 0 0 0 3.333-3.334v-10H90V50h-.003l.003-.007zm-66.667 10.84a4.166 4.166 0 1 1 0-8.334 4.166 4.166 0 0 1 0 8.334zM66.667 60H33.333v-6.667h33.334V60zm10 .833a4.166 4.166 0 1 1-.002-8.334 4.166 4.166 0 0 1 .002 8.334z"/></svg>
+			<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="car"
+    viewBox="0 0 500 500"
+    version="1.0"
+  >
+  <g
+      id="left"
+    >
+    <path
+        d="m30 370v69c0 8.864 7.136 16 16 16h40c8.864 0 16-7.136 16-16v-69z"
+    />
+    <path
+        d="m100.5 40c-11.609 0-21.516 7.014-25.781 17.031l-72.5 170c-1.4364 3.37-2.219 7.07-2.219 10.97v94c0 15.512 12.488 28 28 28h223v-175.12l-192.91 0.53125c12.756-32.024 38.281-96.094 38.281-96.094 4.788-12.02 5.115-13.631 12.031-13.625l142.6 0.123v-35.813h-150.5z"
+    />
+    <path
+        style="fill:#FFF"
+        d="m100 270a35 35 0 0 1 -70 0 35 35 0 1 1 70 0z"
+    />
+  </g
+  >
+  <use
+      xlink:href="#left"
+      transform="matrix(-1,0,0,1,500,0)"
+  />
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >car pictogram</dc:title
+        >
+        <dc:date
+          >2011-02-26T18:48:49</dc:date
+        >
+        <dc:description
+          >pictogram of a car in front view</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/122965/car-pictogram-by-pawnk</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >pawnk</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >car</rdf:li
+            >
+            <rdf:li
+              >pictogram</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
 				</div>
 			Véhicule personnel
 			</div>
