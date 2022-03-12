@@ -65,113 +65,45 @@ hr{width:device-width
     xmlns:ns1="http://sozi.baierouge.fr"
     id="car"
     viewBox="0 0 500 500"
-    version="1.0"
-  >
-  <g
-      id="left"
-    >
-    <path
-        d="m30 370v69c0 8.864 7.136 16 16 16h40c8.864 0 16-7.136 16-16v-69z"
-    />
-    <path
-        d="m100.5 40c-11.609 0-21.516 7.014-25.781 17.031l-72.5 170c-1.4364 3.37-2.219 7.07-2.219 10.97v94c0 15.512 12.488 28 28 28h223v-175.12l-192.91 0.53125c12.756-32.024 38.281-96.094 38.281-96.094 4.788-12.02 5.115-13.631 12.031-13.625l142.6 0.123v-35.813h-150.5z"
-    />
-    <path
-        style="fill:#FFF"
-        d="m100 270a35 35 0 0 1 -70 0 35 35 0 1 1 70 0z"
-    />
-  </g
-  >
+    version="1.0">
+  <g id="left">
+    <path d="m30 370v69c0 8.864 7.136 16 16 16h40c8.864 0 16-7.136 16-16v-69z"/>
+    <path d="m100.5 40c-11.609 0-21.516 7.014-25.781 17.031l-72.5 170c-1.4364 3.37-2.219 7.07-2.219 10.97v94c0 15.512 12.488 28 28 28h223v-175.12l-192.91 0.53125c12.756-32.024 38.281-96.094 38.281-96.094 4.788-12.02 5.115-13.631 12.031-13.625l142.6 0.123v-35.813h-150.5z"/>
+    <path style="fill:#FFF" d="m100 270a35 35 0 0 1 -70 0 35 35 0 1 1 70 0z"/>
+  </g>
   <use
       xlink:href="#left"
-      transform="matrix(-1,0,0,1,500,0)"
-  />
-  <metadata
-    >
-    <rdf:RDF
-      >
-      <cc:Work
-        >
-        <dc:format
-          >image/svg+xml</dc:format
-        >
+      transform="matrix(-1,0,0,1,500,0)"/>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
         <dc:type
-            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
-        />
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
         <cc:license
-            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
-        />
-        <dc:publisher
-          >
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
           <cc:Agent
-              rdf:about="http://openclipart.org/"
-            >
-            <dc:title
-              >Openclipart</dc:title
-            >
-          </cc:Agent
-          >
-        </dc:publisher
-        >
-        <dc:title
-          >car pictogram</dc:title
-        >
-        <dc:date
-          >2011-02-26T18:48:49</dc:date
-        >
-        <dc:description
-          >pictogram of a car in front view</dc:description
-        >
-        <dc:source
-          >https://openclipart.org/detail/122965/car-pictogram-by-pawnk</dc:source
-        >
-        <dc:creator
-          >
-          <cc:Agent
-            >
-            <dc:title
-              >pawnk</dc:title
-            >
-          </cc:Agent
-          >
-        </dc:creator
-        >
-        <dc:subject
-          >
-          <rdf:Bag
-            >
-            <rdf:li
-              >car</rdf:li
-            >
-            <rdf:li
-              >pictogram</rdf:li
-            >
-          </rdf:Bag
-          >
-        </dc:subject
-        >
-      </cc:Work
-      >
-      <cc:License
-          rdf:about="http://creativecommons.org/licenses/publicdomain/"
-        >
-        <cc:permits
-            rdf:resource="http://creativecommons.org/ns#Reproduction"
-        />
-        <cc:permits
-            rdf:resource="http://creativecommons.org/ns#Distribution"
-        />
-        <cc:permits
-            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
-        />
-      </cc:License
-      >
-    </rdf:RDF
-    >
-  </metadata
-  >
-</svg
->
+              rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>car pictogram</dc:title>
+        <dc:date>2011-02-26T18:48:49</dc:date>
+        <dc:description>pictogram of a car in front view</dc:description>
+        <dc:source>https://openclipart.org/detail/122965/car-pictogram-by-pawnk</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>pawnk</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>car</rdf:li>
+            <rdf:li>pictogram</rdf:li></rdf:Bag></dc:subject></cc:Work><cc:Licenserdf:about="http://creativecommons.org/licenses/publicdomain/"><cc:permitsrdf:resource="http://creativecommons.org/ns#Reproduction"/><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/></cc:License></rdf:RDF></metadata>
+</svg>
 			Véhicule personnel
 			</div>
 		<hr style="margin-top:3.5% ">
