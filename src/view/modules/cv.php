@@ -25,7 +25,7 @@ hr{width:device-width
 
 			<div style=" margin-top:-6%; margin-left:13%; font-size:110%">
 			Florian LEBORGNE<br>
-			<span style="display:none" >Emploi saisonnier</span>
+			<span style="opacity:100" >Emploi saisonnier</span>
 			</div>	
 
 			<div style=" margin-top:-4%; margin-left:36%; font-size:100%">
