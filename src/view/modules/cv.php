@@ -56,7 +56,7 @@ hr{width:device-width
 			</svg>
 			<span>Permis B</span>
 				
-			<svg style="margin-left:3%" width="4%" height="4%" fill="currentColor" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#"
+			<svg style="margin-left:3.5%" width="4%" height="4%" fill="currentColor" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#"
     xmlns:xlink="http://www.w3.org/1999/xlink"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:svg="http://www.w3.org/2000/svg"
