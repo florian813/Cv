@@ -105,8 +105,7 @@ hr{width:device-width
 		<div style="margin-left:3%">
 			<h2>Centre d'intérêt</h2>
 			<br>
-			<p>Mécanique , Moto</p>
-			<p>Informatique , Programation</p>
+			<p>Mécanique / Moto / Informatiques / Programmation / Technologies</p>
 		</div>
 	</div>
 
