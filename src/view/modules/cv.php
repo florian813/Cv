@@ -1,15 +1,6 @@
 <style>
-div.text-photo
-{
-	margin-left:13.3%;
-	margin-top:-6%;
-	text-transform: uppercase;
-	width:8%;
-	background:red;
-}
-
-hr{width:device-width
-
+hr {
+   width:device-width;
 }
 	
 #myImg {
@@ -20,22 +11,21 @@ hr{width:device-width
 
 #myImg:hover {opacity: 0.7;}
 
-/* The Modal (background) */
+
 .modal {
-  display: none; /* Hidden by default */
-  position: fixed; /* Stay in place */
-  z-index: 1; /* Sit on top */
-  padding-top: 100px; /* Location of the box */
+  display: none;
+  position: fixed;
+  z-index: 1;
+  padding-top: 100px;
   left: 0;
   top: 0;
-  width: 100%; /* Full width */
-  height: 100%; /* Full height */
-  overflow: auto; /* Enable scroll if needed */
-  background-color: rgb(0,0,0); /* Fallback color */
-  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0,0.9);
 }
 
-/* Modal Content (image) */
 .modal-content {
   margin: auto;
   display: block;
@@ -43,7 +33,6 @@ hr{width:device-width
   max-width: 700px;
 }
 
-/* Caption of Modal Image */
 #caption {
   margin: auto;
   display: block;
@@ -54,8 +43,7 @@ hr{width:device-width
   padding: 10px 0;
   height: 150px;
 }
-
-/* Add Animation */
+	
 .modal-content, #caption {  
   animation-name: zoom;
   animation-duration: 0.6s;
@@ -66,7 +54,6 @@ hr{width:device-width
   to {transform: scale(1)}
 }
 
-/* The Close Button */
 .close {
   position: absolute;
   top: 15px;
@@ -84,7 +71,6 @@ hr{width:device-width
   cursor: pointer;
 }
 
-/* 100% Image Width on Smaller Screens */
 @media only screen and (max-width: 700px){
   .modal-content {
     width: 100%;
@@ -110,12 +96,12 @@ hr{width:device-width
 			<img id="myImg" src="./img/photo_cv2.jpg" class="rounded-circle" style="width: 100% ; margin-top:10% ;"></img>
 		</div>
 
-			<div style=" margin-top:-6%; margin-left:13%; font-size:110%;background:green;width:21%;">
+			<div style=" margin-top:-6%; margin-left:13%; font-size:110%;width:21%;">
 			<span style="font-size:90%">Florian LEBORGNE<span><br>
 			<span style="font-size:92%" >Emploi saisonnier</span><br>
 			</div>	
 
-			<div style=" margin-top:-4%; margin-left:36%; font-size:100%;background:red">
+			<div style=" margin-top:-4%; margin-left:36%; font-size:100%;">
 			<svg xmlns="http://www.w3.org/2000/svg" width="4%" height="4%" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
   				<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555ZM0 4.697v7.104l5.803-3.558L0 4.697ZM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757Zm3.436-.586L16 11.801V4.697l-5.803 3.546Z"/>
 			</svg>
