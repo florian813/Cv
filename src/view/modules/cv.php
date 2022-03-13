@@ -98,9 +98,18 @@ hr{width:device-width
 
 	<div id="div-photo" style="width=device-width ; background:#273746 ;">
 	<hr>
+		
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+  <span class="close">&times;</span>
+  <img class="modal-content" id="img01">
+  <div id="caption"></div>
+</div>
 
 		<div style="margin-left:2% ; width:10%;">
 			<img src="./img/photo_cv2.jpg" class="rounded-circle" style="width: 100% ; margin-top:10% ;"></img>
+		<img id="myImg" src="./img/photo_cv2.jpg" alt="Northern Lights, Norway" width="300" height="200">
 		</div>
 
 			<div style=" margin-top:-6%; margin-left:13%; font-size:110%">
