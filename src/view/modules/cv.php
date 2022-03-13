@@ -17,7 +17,7 @@ hr{width:device-width
 
 	
 
-	<div id="div-photo" style="width=device-width ; background:#273746 ; margin-top:-0.9%">
+	<div id="div-photo" style="width=device-width ; background:#273746 ;">
 	<hr>
 
 		<div style="margin-left:2% ; width:10%;">
