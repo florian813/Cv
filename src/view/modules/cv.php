@@ -110,9 +110,9 @@ hr{width:device-width
 			<img id="myImg" src="./img/photo_cv2.jpg" class="rounded-circle" style="width: 100% ; margin-top:10% ;"></img>
 		</div>
 
-			<div style=" margin-top:-6%; margin-left:13%; font-size:110%;background:green;width:15%;">
-			<span style="font-size:80%">Florian LEBORGNE<span><br>
-			<span style="" >Emploi saisonnier</span><br>
+			<div style=" margin-top:-6%; margin-left:13%; font-size:110%;background:green;width:16%;">
+			<span style="font-size:90%">Florian LEBORGNE<span><br>
+			<span style="font-size:90%" >Emploi saisonnier</span><br>
 			</div>	
 
 			<div style=" margin-top:-4%; margin-left:36%; font-size:100%;background:red">
