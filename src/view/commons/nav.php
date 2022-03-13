@@ -16,7 +16,7 @@
             </li>
           </ul>
 
-          <button onclick="darkFunction()" class="btn btn-secondary" id="light-button" style="margin-left:81%;">dark</button>
+          <button onclick="darkFunction()" class="btn btn-secondary" id="light-button" style="margin-left:81%;">dark mode</button>
         </div>
             
       </nav>
