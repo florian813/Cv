@@ -110,7 +110,7 @@ hr{width:device-width
 			<img id="myImg" src="./img/photo_cv2.jpg" class="rounded-circle" style="width: 100% ; margin-top:10% ;"></img>
 		</div>
 
-			<div style=" margin-top:-6%; margin-left:13%; font-size:110%;">
+			<div style=" margin-top:-6%; margin-left:13%; font-size:110%;background:green;">
 			Florian LEBORGNE<br>
 			<span style="" >Emploi saisonnier</span><br>
 			<span style="opacity: 0;" >Emploi saisonnier</span>
