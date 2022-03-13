@@ -8,7 +8,7 @@ class IndexController {
   {
     // Variables à transmettre à la vue
     $params = [
-      "title"  => "Home",
+      "title"  => "Cv",
       "module" => "cv.php"
     ];
 
