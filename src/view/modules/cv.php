@@ -21,7 +21,7 @@ hr{width:device-width
 	<hr>
 
 		<div style="margin-left:2% ; width:10%;">
-			<img src="./img/photo_cv.jpg" class="rounded-circle" style="width: 100% ; margin-top:10% ;"></img>
+			<img src="./img/photo_cv2.jpg" class="rounded-circle" style="width: 100% ; margin-top:10% ;"></img>
 		</div>
 
 			<div style=" margin-top:-6%; margin-left:13%; font-size:110%">
