@@ -124,7 +124,7 @@
 		<div style="margin-left:3%">
 			<h2>Expériences professionnelles</h2>
 			<br>
-			<p>Opérateur de production (saisonnier) <a href="https://www.google.fr/maps/place/Randstad+Inhouse+Services/@50.5097564,1.6565701,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddd011fa5de001:0xa2bf37e4038c3692!8m2!3d50.509753!4d1.6587588" target="_blank">RANDSTAD INHOUSE SERVICES ( Valeo Etaples),France</a> / De juillet 2021 à août 2021</p>
+			<p>Opérateur de production (saisonnier) <a href="https://www.google.fr/maps/place/Randstad+Inhouse+Services/@50.5097564,1.6565701,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddd011fa5de001:0xa2bf37e4038c3692!8m2!3d50.509753!4d1.6587588" target="_blank">RANDSTAD INHOUSE SERVICES (Valeo Etaples),France</a> / De juillet 2021 à août 2021</p>
 			<p>Inventaire Intermarché Camiers, France <a href="https://www.google.fr/maps/place/Agence+d%E2%80%99int%C3%A9rim+Manpower+Montreuil-sur-Mer+Recrutement,+offres+d%E2%80%99emploi%2Fjob+CDD/@50.4610089,1.6890206,12z/data=!4m9!1m2!2m1!1sAdecco+near+Montreuil-sur-Mer!3m5!1s0x47ddc67d1a206fbd:0xdc97e13565630256!8m2!3d50.4610396!4d1.7589924!15sCh1BZGVjY28gbmVhciBNb250cmV1aWwtc3VyLU1lciIDiAEBkgELdGVtcF9hZ2VuY3k" target="_blank">(mission Manpower)</a> / Août 2020</p>
 			<p>Stagiaire mécanicien <a href="https://www.google.fr/maps/place/Attin+Automobiles/@50.4867506,1.7441177,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddc58e0c1a3ec5:0x1a09840f83d8f7cd!8m2!3d50.4867533!4d1.7463149 " target="_blank">Attin Automobiles Attin, France</a> / Décembre 2015<br>
 				<span class="opacity-50" style="margin-left:1%">Stage de découverte d'une semaine</span></p>
