@@ -179,8 +179,5 @@
   			<div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
 		</div><br>
 		</div>
-		<?php 
-echo "La langue du navigateur est : ".substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2)."";
-?>
 	</div>
 
