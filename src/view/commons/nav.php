@@ -1,6 +1,6 @@
     <nav style="width=device-width">
         
-        <img src="/public/images/avatar.png" class="navbar-brand" href="#" style="width: 2%;height: 2%; margin-left: 1%;"></img>
+        <img src="img/cv.png" class="navbar-brand" href="#" style="width: 2%;height: 2%; margin-left: 1%;"></img>
       
    
               <a href="/">Cv</a>
