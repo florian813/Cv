@@ -7,15 +7,11 @@
         </button>
       
         <div>
-          <ul >
-            <li >
+   
               <a href="/">Home</a>
-            </li>
-            <li>
+          
               <a href="/cv">CV</a>
-            </li>
-          </ul>
-
+        
           <button onclick="darkFunction()" style="margin-left:81%;">dark mode</button>
         </div>
             
