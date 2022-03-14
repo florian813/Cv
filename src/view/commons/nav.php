@@ -6,17 +6,17 @@
           <span class="navbar-toggler-icon"></span>
         </button>
       
-        <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-          <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-            <li class="nav-item active">
-              <a class="nav-link" href="/">Home</a>
+        <div>
+          <ul >
+            <li >
+              <a href="/">Home</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/cv">CV</a>
+            <li>
+              <a href="/cv">CV</a>
             </li>
           </ul>
 
-          <button onclick="darkFunction()" class="btn btn-secondary" id="light-button" style="margin-left:81%;">dark mode</button>
+          <button onclick="darkFunction()" style="margin-left:81%;">dark mode</button>
         </div>
             
       </nav>
