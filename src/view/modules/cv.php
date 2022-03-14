@@ -159,7 +159,7 @@
 		<h2>Informatique</h2>
 		<br>
 		Libre Office <div class="progress" style="width: 28%;" >
-  		<div class="progress-bar" role="progressbar" style="width: 75%;height:4%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">75%</div>
+  		<div class="progress-bar" role="progressbar" style="width: 75%;height:100%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">75%</div>
 		</div><br>
 		HTML/CSS/PHP/JS<br>
 		<div class="progress" style="width: 28%;" >
