@@ -16,7 +16,7 @@ class IndexController {
       }else if((substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2)) == "en")
       {
          $params = [
-          "title"  => "Florian' Cv",
+          "title"  => "Florian's Cv",
           "module" => "cv_en.php"
           ];
       }
