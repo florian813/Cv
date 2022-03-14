@@ -112,7 +112,7 @@ strong {
 /* Nav styles */
 
 nav {
-  background-color: var(--bg-accent);
+  background-color: #FFFAF0;
   display: flex;
   height: 64px;
   padding: 8px 16px;
