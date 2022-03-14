@@ -158,23 +158,23 @@
 		<div style="margin-left:3%">
 		<h2>Informatique</h2>
 		<br>
-		Libre Office <div class="progress" style="width: 25%;" >
+		Libre Office <div class="progress" style="width: 28%;" >
   		<div class="progress-bar" role="progressbar" style="width: 75%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">75%</div>
 		</div><br>
 		HTML/CSS/PHP/JS<br>
-		<div class="progress" style="width: 25%;" >
+		<div class="progress" style="width: 28%;" >
   			<div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
 		</div><br>
 		Base de donnée<br>
-		<div class="progress" style="width: 25%;" >
+		<div class="progress" style="width: 28%;" >
   			<div class="progress-bar" role="progressbar" style="width: 45%;" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100">45%</div>
 		</div><br>
-			C/Java<div class="progress" style="width: 25%;" >
+			C/Java<div class="progress" style="width: 28%;" >
   		<div class="progress-bar" role="progressbar" style="width: 50%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">50%</div>
 		</div><br>
 
 		Solidworks<br>
-		<div class="progress" style="width: 25%;" >
+		<div class="progress" style="width: 28%;" >
   			<div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
 		</div><br>
 		</div>
