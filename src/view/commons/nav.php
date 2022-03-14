@@ -5,9 +5,7 @@
       
         <div>
    
-              <a href="/">Home</a>
-          
-              <a href="/cv">CV</a>
+              <a href="/">Cv</a>
         
           <button onclick="darkFunction()" id="light-button" style="margin-left:81%;">dark mode</button>
         </div>
