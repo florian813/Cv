@@ -19,7 +19,7 @@
 
         <div style=" margin-top:-6%; margin-left:13%; font-size:110%;width:21%;">
         <span style="font-size:90%">Florian LEBORGNE<span><br>
-        <span style="font-size:92%" >Emploi saisonnier</span><br>
+        <span style="font-size:92%" >Seasonal job</span><br>
         </div>	
 
         <div style=" margin-top:-4%; margin-left:36%; font-size:100%;">
@@ -47,7 +47,7 @@
               <path d="M14 3a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h12zM2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2z"/>
               <path d="M2 5.5a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1-.5-.5v-1zm0 3a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5zm0 2a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 0 1h-1a.5.5 0 0 1-.5-.5zm3 0a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 0 1h-1a.5.5 0 0 1-.5-.5zm3 0a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 0 1h-1a.5.5 0 0 1-.5-.5zm3 0a.5.5 0 0 1 .5-.5h1a.5.5 0 0 1 0 1h-1a.5.5 0 0 1-.5-.5z"/>
         </svg>
-        <span>car's license</span>
+        <span>driving license</span>
             
         <svg style="margin-left:3.8%" width="4%" height="4%" fill="currentColor" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#"
 xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -97,7 +97,7 @@ version="1.0">
         rdf:resource="http://creativecommons.org/ns#Distribution"/>
     <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/></cc:License></rdf:RDF></metadata>
 </svg>
-        Véhicule personnel
+        Personal vehicle
         </div>
     <hr style="margin-top:3.5% ">
 </div>
@@ -106,7 +106,7 @@ version="1.0">
 
 <div style="width=device-width" >
     <div style="margin-left:3%">
-        <h2>Diplômes et Formations</h2>
+        <h2>Diplomas and trainings</h2>
         <br>
         <br>
         <p>2ème année Licence informatique <a href="https://www.google.fr/maps/place/Universit%C3%A9+du+Littoral+C%C3%B4te+d'Opale/@50.9525497,1.8790673,17z/data=!4m9!1m2!2m1!1sUniversit%C3%A9+du+Littoral+C%C3%B4te+D'Opale+Calais!3m5!1s0x47dc4080e9a7d7bb:0x4473bdca0c4169a9!8m2!3d50.9532083!4d1.8787707!15sCixVbml2ZXJzaXTDqSBkdSBMaXR0b3JhbCBDw7R0ZSBEJ09wYWxlIENhbGFpcyIDiAEBkgEKdW5pdmVyc2l0eQ" target="_blank">Université du Littoral Côte D'Opale Calais,France</a> / Depuis septembre 2019</p>
@@ -122,7 +122,7 @@ version="1.0">
 
 <div style="width=device-width">
     <div style="margin-left:3%">
-        <h2>Expériences professionnelles</h2>
+        <h2>Professional experiences</h2>
         <br>
         <p>Opérateur de production (saisonnier) <a href="https://www.google.fr/maps/place/Randstad+Inhouse+Services/@50.5097564,1.6565701,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddd011fa5de001:0xa2bf37e4038c3692!8m2!3d50.509753!4d1.6587588" target="_blank">RANDSTAD INHOUSE SERVICES (Valeo Etaples),France</a> / De juillet 2021 à août 2021</p>
         <p>Inventaire Intermarché Camiers, France <a href="https://www.google.fr/maps/place/Agence+d%E2%80%99int%C3%A9rim+Manpower+Montreuil-sur-Mer+Recrutement,+offres+d%E2%80%99emploi%2Fjob+CDD/@50.4610089,1.6890206,12z/data=!4m9!1m2!2m1!1sAdecco+near+Montreuil-sur-Mer!3m5!1s0x47ddc67d1a206fbd:0xdc97e13565630256!8m2!3d50.4610396!4d1.7589924!15sCh1BZGVjY28gbmVhciBNb250cmV1aWwtc3VyLU1lciIDiAEBkgELdGVtcF9hZ2VuY3k" target="_blank">(mission Manpower)</a> / Août 2020</p>
@@ -146,9 +146,9 @@ version="1.0">
 
 <div style="width=device-width ">
     <div style="margin-left:3%">
-        <h2>Centre d'intérêt</h2>
+        <h2>Interests</h2>
         <br>
-        <p>Mécanique / Moto / Informatiques / Programmation / Technologies</p>
+        <p>mechanics / Motorbike / IT / Programming / technologies</p>
     </div>
 </div>
 
