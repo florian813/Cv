@@ -5,6 +5,6 @@
    
               <a href="/">Cv</a>
         
-          <button onclick="darkFunction()" id="light-button" style="margin-left:70%;">dark mode</button>
+          <button onclick="darkFunction()" id="light-button" style="margin-left:70%; type="button" class="btn btn-secondary btn-lg"">dark mode</button>
             
       </nav>
