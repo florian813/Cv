@@ -13,10 +13,14 @@ class IndexController {
           "title"  => "CV Florian",
           "module" => "cv.php"
           ];
+      }else if((substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2)) == "en")
+      {
+         $params = [
+          "title"  => "Florian' Cv",
+          "module" => "cv_en.php"
+          ];
       }
   }
-   
-
     // Faire le rendu de la vue "src/view/Template.php"
     \view\Template::render($params);
   }
