@@ -107,11 +107,11 @@
         <h2>Diplomas and trainings</h2>
         <br>
         <br>
-        <p>2ème année Licence informatique <a href="https://www.google.fr/maps/place/Universit%C3%A9+du+Littoral+C%C3%B4te+d'Opale/@50.9525497,1.8790673,17z/data=!4m9!1m2!2m1!1sUniversit%C3%A9+du+Littoral+C%C3%B4te+D'Opale+Calais!3m5!1s0x47dc4080e9a7d7bb:0x4473bdca0c4169a9!8m2!3d50.9532083!4d1.8787707!15sCixVbml2ZXJzaXTDqSBkdSBMaXR0b3JhbCBDw7R0ZSBEJ09wYWxlIENhbGFpcyIDiAEBkgEKdW5pdmVyc2l0eQ" target="_blank">Université du Littoral Côte D'Opale Calais,France</a> / Depuis septembre 2019</p>
+        <p>2ème année Licence informatique <a href="https://www.google.fr/maps/place/Universit%C3%A9+du+Littoral+C%C3%B4te+d'Opale/@50.9525497,1.8790673,17z/data=!4m9!1m2!2m1!1sUniversit%C3%A9+du+Littoral+C%C3%B4te+D'Opale+Calais!3m5!1s0x47dc4080e9a7d7bb:0x4473bdca0c4169a9!8m2!3d50.9532083!4d1.8787707!15sCixVbml2ZXJzaXTDqSBkdSBMaXR0b3JhbCBDw7R0ZSBEJ09wYWxlIENhbGFpcyIDiAEBkgEKdW5pdmVyc2l0eQ" target="_blank">Université du Littoral Côte D'Opale Calais,France</a> / Since September 2019</p>
             
-        <p>Bac S SI <a href="https://www.google.fr/maps/place/School+Eug%C3%A8ne-Woillez/@50.465282,1.7642147,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddc66415a60755:0xb155ef67daa15148!8m2!3d50.4652375!4d1.7663617" target="_blank">Lycée Eugène Woillez Montreuil,France</a> / De septembre 2016 à juillet 2019<br>
+        <p>Bac S SI <a href="https://www.google.fr/maps/place/School+Eug%C3%A8ne-Woillez/@50.465282,1.7642147,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddc66415a60755:0xb155ef67daa15148!8m2!3d50.4652375!4d1.7663617" target="_blank">Lycée Eugène Woillez Montreuil,France</a> / September 2016 - July 2019<br>
         <span class="opacity-50" style="margin-left:1%">Spécialité: ISN<span></p>
-        <p>Brevet des collèges <a href="https://www.google.fr/maps/place/Middle+School+Du+Bras+D'or/@50.4557918,1.7567172,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddc686488ae1bd:0xca2a187a7ee9f7c0!8m2!3d50.4557884!4d1.7589059" target="_blank">Collège du Bras d'Or Ecuires,France</a> / De septembre 2012 à juillet 2016</p>
+        <p>Brevet des collèges <a href="https://www.google.fr/maps/place/Middle+School+Du+Bras+D'or/@50.4557918,1.7567172,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddc686488ae1bd:0xca2a187a7ee9f7c0!8m2!3d50.4557884!4d1.7589059" target="_blank">Collège du Bras d'Or Ecuires,France</a> / September 2012 - July 2016</p>
     </div>
     <hr>
 </div>
@@ -122,10 +122,10 @@
     <div style="margin-left:3%">
         <h2>Professional experiences</h2>
         <br>
-        <p>Opérateur de production (saisonnier) <a href="https://www.google.fr/maps/place/Randstad+Inhouse+Services/@50.5097564,1.6565701,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddd011fa5de001:0xa2bf37e4038c3692!8m2!3d50.509753!4d1.6587588" target="_blank">RANDSTAD INHOUSE SERVICES (Valeo Etaples),France</a> / De juillet 2021 à août 2021</p>
-        <p>Inventaire Intermarché Camiers, France <a href="https://www.google.fr/maps/place/Agence+d%E2%80%99int%C3%A9rim+Manpower+Montreuil-sur-Mer+Recrutement,+offres+d%E2%80%99emploi%2Fjob+CDD/@50.4610089,1.6890206,12z/data=!4m9!1m2!2m1!1sAdecco+near+Montreuil-sur-Mer!3m5!1s0x47ddc67d1a206fbd:0xdc97e13565630256!8m2!3d50.4610396!4d1.7589924!15sCh1BZGVjY28gbmVhciBNb250cmV1aWwtc3VyLU1lciIDiAEBkgELdGVtcF9hZ2VuY3k" target="_blank">(mission Manpower)</a> / Août 2020</p>
-        <p>Stagiaire mécanicien <a href="https://www.google.fr/maps/place/Attin+Automobiles/@50.4867506,1.7441177,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddc58e0c1a3ec5:0x1a09840f83d8f7cd!8m2!3d50.4867533!4d1.7463149 " target="_blank">Attin Automobiles Attin, France</a> / Décembre 2015<br>
-            <span class="opacity-50" style="margin-left:1%">Stage de découverte d'une semaine</span></p>
+        <p>Production operator (seasonal) <a href="https://www.google.fr/maps/place/Randstad+Inhouse+Services/@50.5097564,1.6565701,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddd011fa5de001:0xa2bf37e4038c3692!8m2!3d50.509753!4d1.6587588" target="_blank">RANDSTAD INHOUSE SERVICES (Valeo Etaples),France</a> / From July 2021 to August 2021</p>
+        <p>Inventory Intermarché Camiers, France <a href="https://www.google.fr/maps/place/Agence+d%E2%80%99int%C3%A9rim+Manpower+Montreuil-sur-Mer+Recrutement,+offres+d%E2%80%99emploi%2Fjob+CDD/@50.4610089,1.6890206,12z/data=!4m9!1m2!2m1!1sAdecco+near+Montreuil-sur-Mer!3m5!1s0x47ddc67d1a206fbd:0xdc97e13565630256!8m2!3d50.4610396!4d1.7589924!15sCh1BZGVjY28gbmVhciBNb250cmV1aWwtc3VyLU1lciIDiAEBkgELdGVtcF9hZ2VuY3k" target="_blank">(mission Manpower)</a> / August 2020</p>
+        <p>Mechanic trainee <a href="https://www.google.fr/maps/place/Attin+Automobiles/@50.4867506,1.7441177,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddc58e0c1a3ec5:0x1a09840f83d8f7cd!8m2!3d50.4867533!4d1.7463149 " target="_blank">Attin Automobiles Attin, France</a> / December 2015<br>
+            <span class="opacity-50" style="margin-left:1%">One week discovery course</span></p>
     </div>
 </div>
 
@@ -135,8 +135,8 @@
     <div style="margin-left:3%">
         <h2>Languages</h2>
         <br>
-        <p>Anglais</p>
-        <p>Espagnol</p>
+        <p>English</p>
+        <p>Spanish</p>
     </div>
 </div>
 
@@ -154,7 +154,7 @@
 
 <div style="width=device-width">
     <div style="margin-left:3%">
-    <h2>Informatique</h2>
+    <h2>IT</h2>
     <br>
     Libre Office 
         <div class="progress" style="width: 28%;" >
