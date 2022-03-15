@@ -135,6 +135,7 @@
     <div style="margin-left:3%">
         <h2>Languages</h2>
         <br>
+	<p>French</p>
         <p>English</p>
         <p>Spanish</p>
     </div>
