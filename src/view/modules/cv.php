@@ -109,7 +109,7 @@
 			<h2>Diplômes et Formations</h2>
 			<br>
 			<br>
-			<p>2ème année Licence informatique <a href="https://www.google.fr/maps/place/Universit%C3%A9+du+Littoral+C%C3%B4te+d'Opale/@50.9525497,1.8790673,17z/data=!4m9!1m2!2m1!1sUniversit%C3%A9+du+Littoral+C%C3%B4te+D'Opale+Calais!3m5!1s0x47dc4080e9a7d7bb:0x4473bdca0c4169a9!8m2!3d50.9532083!4d1.8787707!15sCixVbml2ZXJzaXTDqSBkdSBMaXR0b3JhbCBDw7R0ZSBEJ09wYWxlIENhbGFpcyIDiAEBkgEKdW5pdmVyc2l0eQ" target="_blank">Université du Littoral Côte D'Opale Calais,France</a> / Depuis septembre 2019
+			<p>2ème année Licence informatique <a href="https://www.google.fr/maps/place/Universit%C3%A9+du+Littoral+C%C3%B4te+d'Opale/@50.9525497,1.8790673,17z/data=!4m9!1m2!2m1!1sUniversit%C3%A9+du+Littoral+C%C3%B4te+D'Opale+Calais!3m5!1s0x47dc4080e9a7d7bb:0x4473bdca0c4169a9!8m2!3d50.9532083!4d1.8787707!15sCixVbml2ZXJzaXTDqSBkdSBMaXR0b3JhbCBDw7R0ZSBEJ09wYWxlIENhbGFpcyIDiAEBkgEKdW5pdmVyc2l0eQ" target="_blank">Université du Littoral Côte D'Opale Calais,France</a> / Depuis septembre 2019 <br>
 			<span class="opacity-50" style="margin-left:1%">Projet web réalisé durant ma deuxième année :</span><a href="https://flo-projet-web.herokuapp.com/" target="_blank">https://flo-projet-web.herokuapp.com/</a></p>
 			<p>Bac S SI <a href="https://www.google.fr/maps/place/School+Eug%C3%A8ne-Woillez/@50.465282,1.7642147,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddc66415a60755:0xb155ef67daa15148!8m2!3d50.4652375!4d1.7663617" target="_blank">Lycée Eugène Woillez Montreuil,France</a> / De septembre 2016 à juillet 2019<br>
 			<span class="opacity-50" style="margin-left:1%">Spécialité: Informatique et Sciences du Numérique (ISN)</span></p>
