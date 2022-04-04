@@ -1,10 +1,6 @@
-
-	<h1 class=textemenu style="margin-left:1%">CV</h1>
-
 	
-
 	<div id="div-photo" style="width=device-width ; background:#273746 ;">
-		<hr>
+		<hr style="margin-top:0.05%">
 		
 
 		<div id="myModal" class="modal">
@@ -166,12 +162,12 @@
 		<div class="progress" style="width: 28%;" >
   			<div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
 		</div><br>
-		Base de donnée<br>
+		Base de donnée / MySQL<br>
 		<div class="progress" style="width: 28%;" >
-  			<div class="progress-bar" role="progressbar" style="width: 45%;" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100">45%</div>
+  			<div class="progress-bar" role="progressbar" style="width: 50%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">50%</div>
 		</div><br>
 			C/Java<div class="progress" style="width: 28%;" >
-  		<div class="progress-bar" role="progressbar" style="width: 50%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">50%</div>
+  		<div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
 		</div><br>
 
 		Solidworks<br>

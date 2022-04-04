@@ -5,6 +5,5 @@
             
             <p>Florian Leborgne</p>
             <p><strong>CV</strong></p>
-            <a href='/apropos'><img width='32' src='/public/images/avatar.png'>À-propos</a>
         </footer>";
 ?>
