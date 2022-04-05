@@ -189,11 +189,6 @@ footer strong {
   font-weight: 600;
 }
 
-  * {
-  box-sizing: border-box;
-}
-
-
 .radialProgressBar {
   border-radius: 50%;
   width: 100px;
