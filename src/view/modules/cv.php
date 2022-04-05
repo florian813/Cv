@@ -125,30 +125,42 @@
 			<p>Stagiaire mécanicien <a href="https://www.google.fr/maps/place/Attin+Automobiles/@50.4867506,1.7441177,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddc58e0c1a3ec5:0x1a09840f83d8f7cd!8m2!3d50.4867533!4d1.7463149 " target="_blank">Attin Automobiles Attin, France</a> / Décembre 2015<br>
 				<span class="opacity-50" style="margin-left:1%">Stage de découverte d'une semaine</span></p>
 		</div>
+		<hr>
 	</div>
 
-	<hr>
+	
 
 	<div style="width=device-width">
 		<div style="margin-left:3%">
 			<h2>Langues</h2>
-			<br>
-			<p>Anglais</p>
-			<p>Espagnol</p>
+			<div style="">
+				<div style="">
+				<div class="radialProgressBar progress-60">
+          			<div class="overlay">anglais 60%</div>
+        		</div>
+			</div>
+			<div style="margin-top:0%">
+				<div class="radialProgressBar progress-40" style="">
+          			<div class="overlay">Espagnol 40%</div>
+				</div>
+			</div>
+			</div>
 		</div>
+		<hr style="margin-top:2%">
 	</div>
 
-	<hr>
+	
 
-	<div style="width=device-width ">
+	<div style="width=device-width;">
 		<div style="margin-left:3%">
 			<h2>Centre d'intérêt</h2>
 			<br>
 			<p>Mécanique / Moto / Informatiques / Programmation / Technologies</p>
 		</div>
+		<hr>
 	</div>
 
-	<hr>
+	
 
 	<div style="width=device-width">
 		<div style="margin-left:3%">
