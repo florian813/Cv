@@ -1,12 +1,24 @@
-    <nav id="nav" style="width=device-width ;background-color:#191A19;  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  padding: 5px;
-  opacity:150%">
+<div>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light" style="width=device-width">
         
-        <h1 style="margin-left:1% ;">CV</h1>
-            <a href="#diplomes">Diplomes et formations</a>
-        
-          <button onclick="darkFunction()" id="light-button" style="margin-left:60%;font-size:85%" type="button" class="btn btn-dark" style="border-style:double;border-width: Medium">dark mode</button>
+        <img src="/public/images/avatar.png" class="navbar-brand" href="#" style="width: 2%;height: 2%; margin-left: 1%;"></img>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+          <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+            <li class="nav-item active">
+              <a class="nav-link" href="/">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/cv">CV</a>
+            </li>
+          </ul>
+
+          <button onclick="darkFunction()" class="btn btn-secondary" id="light-button" style="margin-left:81%;">dark mode</button>
+        </div>
             
       </nav>
+    
+</div>
