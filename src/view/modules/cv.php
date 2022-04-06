@@ -170,50 +170,30 @@
 
 	
 
-	<div style="width=100%;height:100%;background:red;">
-		<div style="margin-left:3%;height:240px;width=100%;">
-			<h2>Informatiques</h2>
-				
-				<div style="margin-top:1.5%;background:grey;height:67%;width:52.009%;">
+	<div style="width=device-width">
+		<div style="margin-left:3%">
+		<h2>Informatique</h2>
+		<br>
+		Libre Office 
+			<div class="progress" style="width: 28%;" >
+  		<div class="progress-bar" role="progressbar" style="width: 75%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">75%</div>
+		</div><br>
+		HTML/CSS/PHP/JS<br>
+		<div class="progress" style="width: 28%;" >
+  			<div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
+		</div><br>
+		Base de donnée<br>
+		<div class="progress" style="width: 28%;" >
+  			<div class="progress-bar" role="progressbar" style="width: 45%;" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100">45%</div>
+		</div><br>
+			C/Java<div class="progress" style="width: 28%;" >
+  		<div class="progress-bar" role="progressbar" style="width: 50%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">50%</div>
+		</div><br>
 
-				<div>
-						<div class="radialProgressBar progress-70" style="float:left">
-          					<div class="overlay" style="font-size:105%">Libre office 70%</div>
-        				</div>
-					</div>
-					<div>
-						<div class="radialProgressBar progress-80" style="float:left" >
-          					<div class="overlay" style="font-size:105%">HTML/CSS 80%</div>
-        				</div>
-					</div>
-
-					<div>
-						<div class="radialProgressBar progress-60" style="float:left">
-          					<div class="overlay" style="font-size:113%">PHP/JS 60%</div>
-        				</div>
-					</div>
-
-					<div>
-						<div class="radialProgressBar progress-60" style="float:left" >
-          					<div class="overlay" style="font-size:113%">MySQL 60%</div>
-        				</div>
-					</div>
-
-					<div>
-						<div class="radialProgressBar progress-60" style="float:left">
-          					<div class="overlay" style="font-size:113%">C#/Java 60%</div>
-        				</div>
-					</div>
-
-					<div>
-						<div class="radialProgressBar progress-60" style="float:left">
-          					<div class="overlay" style="font-size:113%">Solidworks 60%</div>
-        				</div>
-					</div>
-				
-						
-				</div>
-			</div>
-			</div>
-			<hr>
+		Solidworks<br>
+		<div class="progress" style="width: 28%;" >
+  			<div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
+		</div><br>
+		</div>
+		<hr>
 	</div>
