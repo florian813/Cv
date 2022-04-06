@@ -131,31 +131,15 @@
 	
 
 	<div style="width=device-width">
-		<div style="margin-left:3%;">
+		<div style="margin-left:3%">
 			<h2>Langues</h2>
-				
-				<div style="margin-top:1.5%">
-					<div style="float:left;">
-						<div class="radialProgressBar progress-60" >
-          					<div class="overlay" style="font-size:115%">Anglais 60%</div>
-        				</div>
-					</div>
-					<div style="float:left">
-						<div class="radialProgressBar progress-40" >
-          					<div class="overlay">Espagnol 40%</div>
-        				</div>
-					</div>
-
-					<!--div qui ne sert n'est pas affichée !-->
-					<div style="height:160px;opacity:0%">
-						<div class="radialProgressBar progress-60" >
-          					<div class="overlay"></div>
-        				</div>
-				</div>
-			</div>
-			</div>
-		<hr style="margin-top:1.6%">
+			<br>
+			<p>Anglais</p>
+			<p>Espagnol</p>
+		</div>
 	</div>
+
+	<hr>
 
 	
 
