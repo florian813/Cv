@@ -1,10 +1,6 @@
-
-	<h1 class=textemenu style="margin-left:1%">CV</h1>
-
 	
-
 	<div id="div-photo" style="width=device-width ; background:#273746 ;">
-		<hr>
+		<hr style="margin-top:0.05%">
 		
 
 		<div id="myModal" class="modal">
@@ -41,7 +37,7 @@
 			<svg xmlns="http://www.w3.org/2000/svg" width="4%" height="4%" fill="currentColor" class="bi bi-house-door-fill" viewBox="0 0 16 16">
   				<path d="M6.5 14.5v-3.505c0-.245.25-.495.5-.495h2c.25 0 .5.25.5.5v3.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5z"/>
 			</svg>
-			<span>31 rue de la gare ,Beutin 62170</span>
+			<span >31 rue de la gare ,Beutin 62170</span>
 
 			<svg xmlns="http://www.w3.org/2000/svg" style="margin-left:1.80%" width="4%" height="4%" fill="currentColor" class="bi bi-credit-card-2-front" viewBox="0 0 16 16">
   				<path d="M14 3a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h12zM2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2z"/>
@@ -96,17 +92,17 @@
             <rdf:li>pictogram</rdf:li></rdf:Bag></dc:subject></cc:Work><cc:Licenserdf:about="http://creativecommons.org/licenses/publicdomain/"><cc:permitsrdf:resource="http://creativecommons.org/ns#Reproduction"/><cc:permits
             rdf:resource="http://creativecommons.org/ns#Distribution"/>
         <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/></cc:License></rdf:RDF></metadata>
-</svg>
+		</svg>
 			Véhicule personnel
-			</div>
+		</div> 
 		<hr style="margin-top:3.5% ">
 	</div>
 
 	
 
-	<div style="width=device-width" >
+	<div id="diplomes" style="width=device-width" >
 		<div style="margin-left:3%">
-			<h2>Diplômes et Formations</h2>
+			<h2 >Diplômes et Formations</h2>
 			<br>
 			<br>
 			<p>2ème année Licence informatique <a href="https://www.google.fr/maps/place/Universit%C3%A9+du+Littoral+C%C3%B4te+d'Opale/@50.9525497,1.8790673,17z/data=!4m9!1m2!2m1!1sUniversit%C3%A9+du+Littoral+C%C3%B4te+D'Opale+Calais!3m5!1s0x47dc4080e9a7d7bb:0x4473bdca0c4169a9!8m2!3d50.9532083!4d1.8787707!15sCixVbml2ZXJzaXTDqSBkdSBMaXR0b3JhbCBDw7R0ZSBEJ09wYWxlIENhbGFpcyIDiAEBkgEKdW5pdmVyc2l0eQ" target="_blank">Université du Littoral Côte D'Opale Calais,France</a> / Depuis septembre 2019 <br>
@@ -129,55 +125,95 @@
 			<p>Stagiaire mécanicien <a href="https://www.google.fr/maps/place/Attin+Automobiles/@50.4867506,1.7441177,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddc58e0c1a3ec5:0x1a09840f83d8f7cd!8m2!3d50.4867533!4d1.7463149 " target="_blank">Attin Automobiles Attin, France</a> / Décembre 2015<br>
 				<span class="opacity-50" style="margin-left:1%">Stage de découverte d'une semaine</span></p>
 		</div>
+		<hr>
 	</div>
 
-	<hr>
+	
 
 	<div style="width=device-width">
-		<div style="margin-left:3%">
+		<div style="margin-left:3%;">
 			<h2>Langues</h2>
-			<br>
-			<p>Anglais</p>
-			<p>Espagnol</p>
-		</div>
+				
+				<div style="margin-top:1.5%">
+					<div style="float:left;">
+						<div class="radialProgressBar progress-60" >
+          					<div class="overlay" style="font-size:115%">Anglais 60%</div>
+        				</div>
+					</div>
+					<div style="float:left">
+						<div class="radialProgressBar progress-40" >
+          					<div class="overlay">Espagnol 40%</div>
+        				</div>
+					</div>
+
+					<!--div qui ne sert n'est pas affichée !-->
+					<div style="height:160px;opacity:0%">
+						<div class="radialProgressBar progress-60" >
+          					<div class="overlay"></div>
+        				</div>
+				</div>
+			</div>
+			</div>
+		<hr style="margin-top:1.6%">
 	</div>
 
-	<hr>
+	
 
-	<div style="width=device-width ">
+	<div style="width=device-width;">
 		<div style="margin-left:3%">
 			<h2>Centre d'intérêt</h2>
 			<br>
 			<p>Mécanique / Moto / Informatiques / Programmation / Technologies</p>
 		</div>
+		<hr>
 	</div>
 
-	<hr>
+	
 
-	<div style="width=device-width">
-		<div style="margin-left:3%">
-		<h2>Informatique</h2>
-		<br>
-		Libre Office 
-			<div class="progress" style="width: 28%;" >
-  		<div class="progress-bar" role="progressbar" style="width: 75%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">75%</div>
-		</div><br>
-		HTML/CSS/PHP/JS<br>
-		<div class="progress" style="width: 28%;" >
-  			<div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
-		</div><br>
-		Base de donnée<br>
-		<div class="progress" style="width: 28%;" >
-  			<div class="progress-bar" role="progressbar" style="width: 45%;" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100">45%</div>
-		</div><br>
-			C/Java<div class="progress" style="width: 28%;" >
-  		<div class="progress-bar" role="progressbar" style="width: 50%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">50%</div>
-		</div><br>
+	<div style="width=100%;height:100%;background:red;">
+		<div style="margin-left:3%;height:240px;width=100%;">
+			<h2>Informatiques</h2>
+				
+				<div style="margin-top:1.5%;background:grey;height:67%;width:52.009%;">
 
-		Solidworks<br>
-		<div class="progress" style="width: 28%;" >
-  			<div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
-		</div><br>
-		</div>
+				<div>
+						<div class="radialProgressBar progress-70" style="float:left">
+          					<div class="overlay" style="font-size:105%">Libre office 70%</div>
+        				</div>
+					</div>
+					<div>
+						<div class="radialProgressBar progress-80" style="float:left" >
+          					<div class="overlay" style="font-size:105%">HTML/CSS 80%</div>
+        				</div>
+					</div>
+
+					<div>
+						<div class="radialProgressBar progress-60" style="float:left">
+          					<div class="overlay" style="font-size:113%">PHP/JS 60%</div>
+        				</div>
+					</div>
+
+					<div>
+						<div class="radialProgressBar progress-60" style="float:left" >
+          					<div class="overlay" style="font-size:113%">MySQL 60%</div>
+        				</div>
+					</div>
+
+					<div>
+						<div class="radialProgressBar progress-60" style="float:left">
+          					<div class="overlay" style="font-size:113%">C#/Java 60%</div>
+        				</div>
+					</div>
+
+					<div>
+						<div class="radialProgressBar progress-60" style="float:left">
+          					<div class="overlay" style="font-size:113%">Solidworks 60%</div>
+        				</div>
+					</div>
+				
+						
+				</div>
+			</div>
+			</div>
+			<hr>
 	</div>
-
