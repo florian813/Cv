@@ -1,8 +1,4 @@
-    <nav id="nav" style="width=device-width ;background-color:#191A19;  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  padding: 5px;
-  opacity:150%">
+    <nav id="nav" style="width=device-width ;background-color:#191A19;">
         
         <img src="img/cv.png" class="navbar-brand" href="#" style="width: 2%;height: 2%; margin-left: 1%;"></img>
       
