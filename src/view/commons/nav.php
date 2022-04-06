@@ -4,9 +4,6 @@
   padding: 5px;
   opacity:150%">
         
-        <img src="img/cv.png" class="navbar-brand" href="#" style="width: 2%;height: 2%; margin-left: 1%;"></img>
-      
-   
         <h1 style="margin-left:1% ;">CV</h1>
             <a href="#diplomes">Diplomes et formations</a>
         
