@@ -33,16 +33,104 @@ class Template {
     echo "<script>console.log('Nombre de visites : " . $compte . "' );</script>";
 ?>
 
+<style>
 
+html, body { height: 100%; margin: 0; }
+  * {
+  box-sizing: border-box;
+}
+
+
+.radialProgressBar {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  display: flex;
+  position:static;
+  background: #ddd;
+  margin: 20px;
+
+}
+.radialProgressBar .overlay {
+  border-radius: 50%;
+  width: 95px;
+  height: 95px;
+  margin: auto;
+  background: #191A19;
+  text-align: center;
+  padding-top: 20%;
+}
+
+.progress-0 {
+  background-image: -webkit-linear-gradient(left, #ddd 50%, transparent 50%), -webkit-linear-gradient(left, #028cd5 50%, #ddd 50%);
+  background-image: linear-gradient(90deg, #ddd 50%, transparent 50%), linear-gradient(90deg, #028cd5 50%, #ddd 50%);
+}
+
+.progress-10 {
+  background-image: -webkit-linear-gradient(36deg, #ddd 50%, transparent 50%), -webkit-linear-gradient(left, #028cd5 50%, #ddd 50%);
+  background-image: linear-gradient(54deg, #ddd 50%, transparent 50%), linear-gradient(90deg, #028cd5 50%, #ddd 50%);
+}
+
+.progress-20 {
+  background-image: -webkit-linear-gradient(72deg, #ddd 50%, transparent 50%), -webkit-linear-gradient(left, #028cd5 50%, #ddd 50%);
+  background-image: linear-gradient(-18deg, #ddd 50%, transparent 50%), linear-gradient(-90deg, #028cd5 50%, #ddd 50%);
+}
+
+.progress-25 {
+  background-image: -webkit-linear-gradient(72deg, #ddd 50%, transparent 50%), -webkit-linear-gradient(left, #028cd5 50%, #ddd 50%);
+  background-image: linear-gradient(0deg, #ddd 50%, transparent 50%), linear-gradient(-90deg, #028cd5 50%, #ddd 50%);
+}
+
+.progress-30 {
+  background-image: -webkit-linear-gradient(108deg, #ddd 50%, transparent 50%), -webkit-linear-gradient(left, #028cd5 50%, #ddd 50%);
+  background-image: linear-gradient(18deg, #ddd 50%, transparent 50%), linear-gradient(-90deg, #028cd5 50%, #ddd 50%);
+}
+
+.progress-40 {
+  background-image: -webkit-linear-gradient(144deg, #ddd 50%, transparent 50%), -webkit-linear-gradient(left, #028cd5 50%, #ddd 50%);
+  background-image: linear-gradient(54deg, #ddd 50%, transparent 50%), linear-gradient(-90deg, #028cd5 50%, #ddd 50%);
+}
+
+.progress-50 {
+  background-image: -webkit-linear-gradient(right, #ddd 50%, transparent 50%), -webkit-linear-gradient(left, #028cd5 50%, #ddd 50%);
+  background-image: linear-gradient(90deg, #ddd 50%, transparent 50%), linear-gradient(-90deg, #028cd5 50%, #ddd 50%);
+}
+
+.progress-60 {
+  background-image: -webkit-linear-gradient(left, #028cd5 50%, transparent 50%), -webkit-linear-gradient(36deg, #028cd5 50%, #ddd 50%);
+  background-image: linear-gradient(-90deg, #028cd5 50%, transparent 50%), linear-gradient(-54deg, #028cd5 50%, #ddd 50%);
+}
+
+.progress-70 {
+  background-image: -webkit-linear-gradient(left, #028cd5 50%, transparent 50%), -webkit-linear-gradient(72deg, #028cd5 50%, #ddd 50%);
+  background-image: linear-gradient(-90deg, #028cd5 50%, transparent 50%), linear-gradient(-18deg, #028cd5 50%, #ddd 50%);
+}
+
+.progress-80 {
+  background-image: -webkit-linear-gradient(left, #028cd5 50%, transparent 50%), -webkit-linear-gradient(108deg, #028cd5 50%, #ddd 50%);
+  background-image: linear-gradient(-90deg, #028cd5 50%, transparent 50%), linear-gradient(18deg, #028cd5 50%, #ddd 50%);
+}
+
+.progress-90 {
+  background-image: -webkit-linear-gradient(left, #028cd5 50%, transparent 50%), -webkit-linear-gradient(144deg, #028cd5 50%, #ddd 50%);
+  background-image: linear-gradient(90deg, #028cd5 50%, transparent 50%), linear-gradient(-54deg, #028cd5 50%, #ddd 50%);
+}
+
+.progress-100 {
+  background-image: -webkit-linear-gradient(left, #028cd5 50%, transparent 50%), -webkit-linear-gradient(right, #028cd5 50%, #ddd 50%);
+  background-image: linear-gradient(90deg, #028cd5 50%, transparent 50%), linear-gradient(-90deg, #028cd5 50%, #ddd 50%);
+}
+</style>
 </head>
 
 <body id="body" style="background:#191A19 ; color:white; min-width:320px;">
- 
   <!-- TODO: Inclure le nav ici -->
   <?php include "commons/nav.php"?>
 
+  <div >
   <!-- Inclusion du module à afficher -->
   <?php include "modules/" . $params["module"]; ?>
+</div>
 
   <!-- TODO: Inclure le footer ici -->
     <?php include "commons/footer.php"?>
