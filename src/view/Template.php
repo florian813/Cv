@@ -13,22 +13,24 @@ class Template {
 
   <!-- Inclusion des méta-données -->
   <?php include "commons/head.php" ?>
+  
+  <!--Compteur de visite -->
   <?php
-if(file_exists('compteur_pages_vues.txt'))
-{
+    if(file_exists('compteur_pages_vues.txt'))
+    {
         $compteur_f = fopen('compteur_pages_vues.txt', 'r+');
         $compte = fgets($compteur_f);
-}
-else
-{
+    }
+    else
+    {
         $compteur_f = fopen('compteur_pages_vues.txt', 'a+');
         $compte = 0;
-}
-$compte++;
-fseek($compteur_f, 0);
-fputs($compteur_f, $compte);
-fclose($compteur_f); 
-echo "<script>console.log('Nombre de visites : " . $compte . "' );</script>";
+    }
+    $compte++;
+    fseek($compteur_f, 0);
+    fputs($compteur_f, $compte);
+    fclose($compteur_f); 
+    echo "<script>console.log('Nombre de visites : " . $compte . "' );</script>";
 ?>
 
 </head>
@@ -45,8 +47,7 @@ echo "<script>console.log('Nombre de visites : " . $compte . "' );</script>";
     <?php include "commons/footer.php"?>
 
     <?php include "./public/scripts/dark_mode.js"?>
-
-    
+    <?php include "./public/scripts/photo_cv.js"?>
 </body>
 
 </html>
@@ -54,5 +55,4 @@ echo "<script>console.log('Nombre de visites : " . $compte . "' );</script>";
 <?php
   }
 }
-
 ?>
