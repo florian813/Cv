@@ -166,10 +166,10 @@
 				<section >
   <div class="rt-container" style="overflow-y:auto;height:200px">
     <div class="radialProgressBar progress-70" style="margin-top:-1%">
-      <div class="overlay">Libre Office 70%</div>
+      <div class="overlay" style="font-size:98%">Libre Office 70%</div>
     </div>
     <div class="radialProgressBar progress-80" style="margin-top:-1%">
-      <div class="overlay">HTML/CSS 80%</div>
+      <div class="overlay"  style="font-size:98%">HTML/CSS 80%</div>
     </div>
     <div class="radialProgressBar progress-70" style="margin-top:-1%">
       <div class="overlay" style="font-size:105%">PHP/JS 70%</div>
