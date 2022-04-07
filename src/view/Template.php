@@ -44,18 +44,6 @@ html, body { height: 100%; margin: 0; }
 
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
 
-/* Variables */
-
-:root {
-  --bg-main: #fff; 
-  --bg-accent: #ffcf00;
-  --bg-info: #fff2bb;
-  --bg-error: #ffc0c3;
-  --color-main: #333;
-  --color-valid: #33881b;
-  --color-invalid: #e3000b;
-  --font-main: 'Lato';
-}
 
 /* General reset */
 
@@ -63,21 +51,7 @@ html, body { height: 100%; margin: 0; }
   box-sizing: border-box;
 }
 
-a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, hr, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font: inherit;
-  vertical-align: initial;
-}
-
 /* General styles */
-
-body {
-  background-color: var(--bg-main);
-  color: var(--color-main);
-  font-family: var(--font-main);
-}
 
 h1 {
   font-size: 42px;
@@ -98,34 +72,6 @@ h4 {
   font-weight: 600;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-input[type="text"],
-input[type="password"],
-input[type="mail"],
-input[type="number"] {
-  border-radius: 0;
-  border: 1px solid var(--color-main);
-  font-family: var(--font-main);
-  height: 32px;
-  padding: 18px 10px;
-  width: 100%;
-}
-
-input[type="submit"] {
-  background-color: transparent;
-  border: 2px solid var(--color-main);
-  display: inline-block;
-  font-family: var(--font-main);
-  padding: 8px 12px;
-}
 
 input[type="submit"]:hover {
   cursor: pointer;
