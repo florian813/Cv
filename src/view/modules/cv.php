@@ -172,19 +172,19 @@
       <div class="overlay">HTML/CSS 80%</div>
     </div>
     <div class="radialProgressBar progress-70" style="margin-top:-1%">
-      <div class="overlay">PHP/JS 70%</div>
+      <div class="overlay" style="font-size:105%">PHP/JS 70%</div>
     </div>
     <div class="radialProgressBar progress-60" style="margin-top:-1%">
-      <div class="overlay">MySQL 60%</div>
+      <div class="overlay" style="font-size:105%">MySQL 60%</div>
     </div>
     <div class="radialProgressBar progress-60" style="margin-top:-1%">
-      <div class="overlay">Java 60%</div>
+      <div class="overlay" style="font-size:105%">Java 60%</div>
     </div>
     <div class="radialProgressBar progress-70" style="margin-top:-1%">
-      <div class="overlay">C# 70%</div>
+      <div class="overlay" style="font-size:105%">C# 70%</div>
     </div>
     <div class="radialProgressBar progress-60" style="margin-top:-1%">
-      <div class="overlay">Solidworks</div>
+      <div class="overlay">Solidworks 60%</div>
     </div>
   </div>
 </section>
