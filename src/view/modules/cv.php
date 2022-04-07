@@ -131,17 +131,22 @@
 	
 
 	<div style="width=device-width">
-		<div style="margin-left:3%">
+		<div style="margin-left:3%;">
 			<h2>Langues</h2>
-			<br>
-			<p>Anglais</p>
-			<p>Espagnol</p>
-		</div>
+				
+			<section >
+  <div class="rt-container" style="overflow-y:auto;height:200px">
+    <div class="radialProgressBar progress-60" style="margin-top:-1%">
+      <div class="overlay">Anglais 60%</div>
+    </div>
+    <div class="radialProgressBar progress-50" style="margin-top:-1%">
+      <div class="overlay">Espagnol 50%</div>
+    </div>
+  </div>
+</section>
+			</div>
+		<hr style="margin-top:">
 	</div>
-
-	<hr>
-
-	
 
 	<div style="width=device-width;">
 		<div style="margin-left:3%">
@@ -160,35 +165,29 @@
 
 				<section >
   <div class="rt-container" style="overflow-y:auto;height:200px">
-    <div class="radialProgressBar progress-0" style="margin-top:-1%">
-      <div class="overlay">0</div>
-    </div>
-    <div class="radialProgressBar progress-10" style="margin-top:-1%">
-      <div class="overlay">10</div>
-    </div>
-    <div class="radialProgressBar progress-20" style="margin-top:-1%">
-      <div class="overlay">20</div>
-    </div>
-    <div class="radialProgressBar progress-30" style="margin-top:-1%">
-      <div class="overlay">30</div>
-    </div>
-    <div class="radialProgressBar progress-40" style="margin-top:-1%">
-      <div class="overlay">40</div>
-    </div>
-    <div class="radialProgressBar progress-50" style="margin-top:-1%">
-      <div class="overlay">50</div>
-    </div>
-    <div class="radialProgressBar progress-60" style="margin-top:-1%">
-      <div class="overlay">60</div>
-    </div>
     <div class="radialProgressBar progress-70" style="margin-top:-1%">
-      <div class="overlay">70</div>
+      <div class="overlay">Libre Office 70%</div>
     </div>
     <div class="radialProgressBar progress-80" style="margin-top:-1%">
-      <div class="overlay">80</div>
+      <div class="overlay">HTML/CSS 80%</div>
+    </div>
+    <div class="radialProgressBar progress-70" style="margin-top:-1%">
+      <div class="overlay">PHP/JS 70%</div>
+    </div>
+    <div class="radialProgressBar progress-60" style="margin-top:-1%">
+      <div class="overlay">MySQL 60%</div>
+    </div>
+    <div class="radialProgressBar progress-60" style="margin-top:-1%">
+      <div class="overlay">Java 60%</div>
+    </div>
+    <div class="radialProgressBar progress-70" style="margin-top:-1%">
+      <div class="overlay">C# 70%</div>
+    </div>
+    <div class="radialProgressBar progress-60" style="margin-top:-1%">
+      <div class="overlay">Solidworks</div>
     </div>
   </div>
 </section>
-			</div>
+</div>
 			<hr>
 	</div>
