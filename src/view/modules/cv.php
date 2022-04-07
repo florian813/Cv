@@ -154,12 +154,12 @@
 
 	
 
-<div style="background:red;">
+<div style="">
 		<div style="margin-left:3%;height:240px;width=100%;">
 			<h2>Informatiques</h2>
 
 				<section >
-  <div class="rt-container" style="overflow-y:auto;background:yellow;height:200px">
+  <div class="rt-container" style="overflow-y:auto;height:200px">
     <div class="radialProgressBar progress-0" style="margin-top:-1%">
       <div class="overlay">0</div>
     </div>
