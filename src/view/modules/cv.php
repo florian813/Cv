@@ -154,41 +154,29 @@
 
 	
 
-<div style="">
-		<div style="margin-left:3%;height:240px;width=100%;">
-			<h2>Informatiques</h2>
-
-				<section >
-  <div class="rt-container" style="overflow-y:auto;height:200px">
-    <div class="radialProgressBar progress-0" style="margin-top:-1%">
-      <div class="overlay">0</div>
-    </div>
-    <div class="radialProgressBar progress-10" style="margin-top:-1%">
-      <div class="overlay">10</div>
-    </div>
-    <div class="radialProgressBar progress-20" style="margin-top:-1%">
-      <div class="overlay">20</div>
-    </div>
-    <div class="radialProgressBar progress-30" style="margin-top:-1%">
-      <div class="overlay">30</div>
-    </div>
-    <div class="radialProgressBar progress-40" style="margin-top:-1%">
-      <div class="overlay">40</div>
-    </div>
-    <div class="radialProgressBar progress-50" style="margin-top:-1%">
-      <div class="overlay">50</div>
-    </div>
-    <div class="radialProgressBar progress-60" style="margin-top:-1%">
-      <div class="overlay">60</div>
-    </div>
-    <div class="radialProgressBar progress-70" style="margin-top:-1%">
-      <div class="overlay">70</div>
-    </div>
-    <div class="radialProgressBar progress-80" style="margin-top:-1%">
-      <div class="overlay">80</div>
-    </div>
+<div style="width=device-width">
+  <div style="margin-left:3%">
+  <h2>Informatique</h2>
+  <br>
+  Libre Office 
+    <div class="progress" style="width: 28%;" >
+    <div class="progress-bar" role="progressbar" style="width: 75%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">75%</div>
+  </div><br>
+  HTML/CSS/PHP/JS<br>
+  <div class="progress" style="width: 28%;" >
+      <div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
+  </div><br>
+  Base de donnée<br>
+  <div class="progress" style="width: 28%;" >
+      <div class="progress-bar" role="progressbar" style="width: 45%;" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100">45%</div>
+  </div><br>
+    C/Java<div class="progress" style="width: 28%;" >
+    <div class="progress-bar" role="progressbar" style="width: 50%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">50%</div>
+  </div><br>
+  Solidworks<br>
+  <div class="progress" style="width: 28%;" >
+      <div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
+  </div><br>
   </div>
-</section>
-			</div>
-			<hr>
-	</div>
+  <hr>
+</div>
