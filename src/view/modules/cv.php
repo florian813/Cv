@@ -137,7 +137,7 @@
 			<section >
   <div class="rt-container" style="overflow-y:auto;height:200px">
     <div class="radialProgressBar progress-60" style="margin-top:-1%">
-      <div class="overlay">Anglais 60%</div>
+      <div class="overlay" style="font-size:105%">Anglais 60%</div>
     </div>
     <div class="radialProgressBar progress-50" style="margin-top:-1%">
       <div class="overlay">Espagnol 50%</div>
