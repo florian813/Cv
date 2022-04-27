@@ -49,6 +49,7 @@ html, body { height: 100%; margin: 0; }
 
 * {
   box-sizing: border-box;
+  user-select: none;  
 }
 
 /* General styles */
@@ -72,10 +73,115 @@ h4 {
   font-weight: 600;
 }
 
+#toggle_checkbox
+{
+    display: none;
+}
 
-input[type="submit"]:hover {
-  cursor: pointer;
-  text-decoration: underline;
+label
+{
+    display: block;
+    position: absolute;
+    top: 32px;
+    right: 0;
+    left: 60%;
+    width: 116px;
+    height: 56px;
+    margin: 0 auto;
+    background-color: #7FB3D5;
+    border-radius: 56px;
+    transform: translateY(-50%);
+    cursor: pointer;
+    transition: 0.3s ease background-color;
+    overflow: hidden;
+}
+
+#star
+{
+  position: absolute;
+    top: 13px;
+    left: 13px;
+    width: 30px;
+    height: 30px;
+    background-color: #fafd0f;
+    transform: scale(1);
+    border-radius: 50%;
+    transition: 0.3s ease top, 0.3s ease left, 0.3s ease transform, 0.3s ease background-color;
+    z-index: 1;
+}
+
+#star-1
+{
+    position: relative;
+}
+
+#star-2
+{
+    position: absolute;
+    transform: rotateZ(36deg);
+}
+
+.star
+{
+    top: -4px;
+    left: -6.5px;
+    font-size: 54px;
+    line-height: 28px;
+    color: #fafd0f;
+    transition: 0.3s ease color;
+}
+
+#moon
+{
+    position: absolute;
+    bottom: -52px;
+    right: 8px;
+    width: 40px;
+    height: 40px;
+    background-color: #fff;
+    border-radius: 50%;
+    transition: 0.3s ease bottom;
+}
+
+#moon:before
+{
+    content: "";
+    position: absolute;
+    top: -12px;
+    left: -17px;
+    width: 40px;
+    height: 40px;
+    background-color:#03a9f4;
+    border-radius: 50%;
+    transition: 0.3s ease background-color;
+}
+
+#toggle_checkbox:checked + label
+{
+    background-color: midnightblue;
+}
+
+#toggle_checkbox:checked + label #star
+{
+    top: 3px;
+    left: 64px;
+    transform: scale(0.3);
+    background-color: yellow;
+}
+
+#toggle_checkbox:checked + label .star
+{
+    color: yellow;
+}
+
+#toggle_checkbox:checked + label #moon
+{
+    bottom: 8px;
+}
+
+#toggle_checkbox:checked + label #moon:before
+{
+    background-color: midnightblue;
 }
 
 .box {
@@ -142,64 +248,6 @@ nav a.account {
 nav a img {
   vertical-align: top;
   width: 16px;
-}
-
-/* Home styles */
-
-#home .banner {
-  background-color: var(--bg-accent);
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  min-height: 50vh;
-  padding: 0 32px;
-}
-
-#home .banner h2 {
-  margin-bottom: 32px;
-}
-
-#home .banner a {
-  background-color: var(--color-main);
-  color: #fff;
-  font-size: 18px;
-  padding: 16px;
-}
-
-#home .brief {
-  display: flex;
-  margin: 32px 16px;
-  padding: 16px;
-}
-
-#home .brief-image {
-  align-self: center;
-  flex: 1;
-  text-align: center;
-  padding: 0 32px;
-}
-
-#home .brief-text {
-  flex: 1;
-  align-self: center;
-}
-
-#home .brief-image img {
-  max-width: 100%;
-}
-
-#home .brief-text h3 {
-  margin-bottom: 8px;
-}
-
-#home .brief-text p {
-  margin-bottom: 8px;
-}
-
-#home .brief-text a {
-  border: 2px solid var(--color-main);
-  display: inline-block;
-  padding: 8px 12px;
 }
 
 /* Error styles */

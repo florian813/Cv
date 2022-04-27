@@ -163,7 +163,7 @@
 		<div style="margin-left:3%;height:240px;width=100%;">
 			<h2>Informatiques</h2>
 
-				<section >
+				<section>
   <div class="rt-container" style="overflow-y:auto;height:200px">
     <div class="radialProgressBar progress-70" style="margin-top:-1%">
       <div class="overlay" style="font-size:98%">Libre Office 70%</div>

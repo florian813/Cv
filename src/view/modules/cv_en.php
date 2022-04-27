@@ -1,8 +1,4 @@
 
-	<h1 class=textemenu style="margin-left:1%">CV</h1>
-
-	
-
 <div id="div-photo" style="width=device-width ; background:#273746 ;">
     <hr>
     
@@ -134,14 +130,24 @@
 <div style="width=device-width">
     <div style="margin-left:3%">
         <h2>Languages</h2>
-        <br>
-	<p>French</p>
-        <p>English</p>
-        <p>Spanish</p>
+        <section >
+  <div class="rt-container" style="overflow-y:auto;height:200px">
+    <div class="radialProgressBar progress-100" style="margin-top:-1%">
+      <div class="overlay" style="font-size:105%">French 100%</div>
     </div>
+    <div class="radialProgressBar progress-60" style="margin-top:-1%">
+      <div class="overlay" style="font-size:105%">English 60%</div>
+    </div>
+    <div class="radialProgressBar progress-50" style="margin-top:-1%">
+      <div class="overlay" style="font-size:105%">Spanish 50%</div>
+    </div>
+  </div>
+</section>
+    </div>
+    <hr>
 </div>
 
-<hr>
+
 
 <div style="width=device-width ">
     <div style="margin-left:3%">
@@ -153,30 +159,35 @@
 
 <hr>
 
-<div style="width=device-width">
-    <div style="margin-left:3%">
-    <h2>IT</h2>
-    <br>
-    Libre Office 
-        <div class="progress" style="width: 28%;" >
-      <div class="progress-bar" role="progressbar" style="width: 75%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">75%</div>
-    </div><br>
-    HTML/CSS/PHP/JS<br>
-    <div class="progress" style="width: 28%;" >
-          <div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
-    </div><br>
-    Base de donnée<br>
-    <div class="progress" style="width: 28%;" >
-          <div class="progress-bar" role="progressbar" style="width: 45%;" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100">45%</div>
-    </div><br>
-        C/Java<div class="progress" style="width: 28%;" >
-      <div class="progress-bar" role="progressbar" style="width: 50%;" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">50%</div>
-    </div><br>
+<div style="">
+		<div style="margin-left:3%;height:240px;width=100%;">
+			<h2>IT</h2>
 
-    Solidworks<br>
-    <div class="progress" style="width: 28%;" >
-          <div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
-    </div><br>
+				<section>
+  <div class="rt-container" style="overflow-y:auto;height:200px">
+    <div class="radialProgressBar progress-70" style="margin-top:-1%">
+      <div class="overlay" style="font-size:98%">Libre Office 70%</div>
     </div>
+    <div class="radialProgressBar progress-80" style="margin-top:-1%">
+      <div class="overlay"  style="font-size:98%">HTML/CSS 80%</div>
+    </div>
+    <div class="radialProgressBar progress-70" style="margin-top:-1%">
+      <div class="overlay" style="font-size:105%">PHP/JS 70%</div>
+    </div>
+    <div class="radialProgressBar progress-60" style="margin-top:-1%">
+      <div class="overlay" style="font-size:105%">MySQL 60%</div>
+    </div>
+    <div class="radialProgressBar progress-60" style="margin-top:-1%">
+      <div class="overlay" style="font-size:105%">Java 60%</div>
+    </div>
+    <div class="radialProgressBar progress-70" style="margin-top:-1%">
+      <div class="overlay" style="font-size:105%">C# 70%</div>
+    </div>
+    <div class="radialProgressBar progress-60" style="margin-top:-1%">
+      <div class="overlay">Solidworks 60%</div>
+    </div>
+  </div>
+</section>
 </div>
-
+			<hr>
+	</div>
