@@ -449,23 +449,55 @@ hr {
   background-image: linear-gradient(90deg, #028cd5 50%, transparent 50%), linear-gradient(-90deg, #028cd5 50%, #ddd 50%);
 }
 
+#informations{
+  margin-top:-3%;
+  margin-left:31%;
+  font-size:100%;
+}
+
+#photocv{margin-left:2% ; width:10%;}
+#prenom{
+  margin-top:-6%; margin-left:13%; font-size:110%;width:21%;
+}
+@media only screen and (max-width:600px){
+  svg{
+    width:9% ;
+    height:9%;
+  }
+  
+  #informations{
+  margin-top:10%;
+  margin-left:28%;
+  }
+
+  #photocv{margin-left:5% ; width:26%;}
+
+  #prenom{
+  margin-top:-18%; margin-left:33%; font-size:110%;width:34% ;
+}
+  
+}
 </style>
 </head>
 
-<body id="body" style="background:#191A19 ; color:white; min-width:320px;">
-  <!-- TODO: Inclure le nav ici -->
+<body id="body" style="background:#191A19 ; color:white; min-width:320px;display:none;">
+<div id="nav1" style="display:none;">  
+<!-- TODO: Inclure le nav ici -->
   <?php include "commons/nav.php"?>
-
-  <div >
+</div>
+  <div>
   <!-- Inclusion du module à afficher -->
   <?php include "modules/" . $params["module"]; ?>
 </div>
 
   <!-- TODO: Inclure le footer ici -->
+  <div id="footer" style="display:none;">
     <?php include "commons/footer.php"?>
-
+</div>
     <?php include "./public/scripts/dark_mode.js"?>
     <?php include "./public/scripts/photo_cv.js"?>
+    
+
 </body>
 
 </html>
