@@ -136,6 +136,11 @@
                 <span class="material-symbols-sharp" style="margin-top: 10px">
                     circle
                 </span>
+                Opérateur de production (saisonnier) <a href="https://www.google.fr/maps/place/Randstad+Inhouse+Services/@50.5097564,1.6565701,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddd011fa5de001:0xa2bf37e4038c3692!8m2!3d50.509753!4d1.6587588" target="_blank">RANDSTAD INHOUSE SERVICES (Valeo Etaples),France</a> / De juillet 2022 à août 2022</p>
+			<p>
+                <span class="material-symbols-sharp" style="margin-top: 10px">
+                    circle
+                </span>
                 Opérateur de production (saisonnier) <a href="https://www.google.fr/maps/place/Randstad+Inhouse+Services/@50.5097564,1.6565701,17z/data=!3m1!4b1!4m5!3m4!1s0x47ddd011fa5de001:0xa2bf37e4038c3692!8m2!3d50.509753!4d1.6587588" target="_blank">RANDSTAD INHOUSE SERVICES (Valeo Etaples),France</a> / De juillet 2021 à août 2021</p>
 			<p>
                 <span class="material-symbols-sharp" style="margin-top: 10px">
