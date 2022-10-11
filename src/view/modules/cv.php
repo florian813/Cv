@@ -109,7 +109,7 @@
                 <span class="material-symbols-sharp" style="margin-top: 10px">
                     circle
                 </span>
-                2ème année Licence informatique <a href="https://www.google.fr/maps/place/Universit%C3%A9+du+Littoral+C%C3%B4te+d'Opale/@50.9525497,1.8790673,17z/data=!4m9!1m2!2m1!1sUniversit%C3%A9+du+Littoral+C%C3%B4te+D'Opale+Calais!3m5!1s0x47dc4080e9a7d7bb:0x4473bdca0c4169a9!8m2!3d50.9532083!4d1.8787707!15sCixVbml2ZXJzaXTDqSBkdSBMaXR0b3JhbCBDw7R0ZSBEJ09wYWxlIENhbGFpcyIDiAEBkgEKdW5pdmVyc2l0eQ" target="_blank">Université du Littoral Côte D'Opale Calais,France</a> / Depuis septembre 2019 <br>
+                3ème année Licence informatique <a href="https://www.google.fr/maps/place/Universit%C3%A9+du+Littoral+C%C3%B4te+d'Opale/@50.9525497,1.8790673,17z/data=!4m9!1m2!2m1!1sUniversit%C3%A9+du+Littoral+C%C3%B4te+D'Opale+Calais!3m5!1s0x47dc4080e9a7d7bb:0x4473bdca0c4169a9!8m2!3d50.9532083!4d1.8787707!15sCixVbml2ZXJzaXTDqSBkdSBMaXR0b3JhbCBDw7R0ZSBEJ09wYWxlIENhbGFpcyIDiAEBkgEKdW5pdmVyc2l0eQ" target="_blank">Université du Littoral Côte D'Opale Calais,France</a> / Depuis septembre 2019 <br>
 			<span class="opacity-50" style="margin-left:1%">Projet web d'un site e-commerce réalisé durant ma deuxième année :</span><a href="https://flo-projet-web.herokuapp.com/" target="_blank">https://flo-projet-web.herokuapp.com/</a></p>
 			<p>
                 <span class="material-symbols-sharp" style="margin-top: 10px">
